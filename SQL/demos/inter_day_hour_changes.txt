@@ -1,0 +1,17 @@
+from pandasql import sqldf
+import pandas as pd
+
+data = [( 100, 1, 'a',13)
+, (100, 1, 'a',14)
+, (100, 2, 'b',14)        
+       ]
+
+df = pd.DataFrame(data)
+df.columns = 'id,day,page,hour'.split(',')
+
+q = '''
+select df.*, lead(hour) over(partition by id,day order by day,hour) as inter_day_hour_changes
+from df
+'''
+
+sqldf(q)

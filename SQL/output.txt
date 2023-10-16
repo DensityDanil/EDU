@@ -1,0 +1,1331 @@
+C:\github\SQL\funcs\concat_many_items.py 
+************* Module concat_many_items
+funcs\concat_many_items.py:3:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+funcs\concat_many_items.py:4:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+funcs\concat_many_items.py:5:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+funcs\concat_many_items.py:6:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+funcs\concat_many_items.py:7:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+funcs\concat_many_items.py:8:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+funcs\concat_many_items.py:10:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+funcs\concat_many_items.py:11:0: C0304: Final newline missing (missing-final-newline)
+funcs\concat_many_items.py:11:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+funcs\concat_many_items.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\concat_many_items.py:1:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\concat_many_items.py:3:1: C0103: Variable name "d" doesn't conform to snake_case naming style (invalid-name)
+funcs\concat_many_items.py:5:5: C0121: Comparison 'quotes != None' should be 'quotes is not None' (singleton-comparison)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\funcs\describe_class_attrs_values.py 
+************* Module describe_class_attrs_values
+funcs\describe_class_attrs_values.py:21:0: C0301: Line too long (114/100) (line-too-long)
+funcs\describe_class_attrs_values.py:26:0: C0304: Final newline missing (missing-final-newline)
+funcs\describe_class_attrs_values.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\describe_class_attrs_values.py:2:0: C0410: Multiple imports on one line (os, sys) (multiple-imports)
+funcs\describe_class_attrs_values.py:4:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\describe_class_attrs_values.py:18:19: W0703: Catching too general exception Exception (broad-except)
+funcs\describe_class_attrs_values.py:18:12: C0103: Variable name "e" doesn't conform to snake_case naming style (invalid-name)
+funcs\describe_class_attrs_values.py:19:26: W0612: Unused variable 'exc_obj' (unused-variable)
+
+------------------------------------------------------------------
+Your code has been rated at 5.79/10 (previous run: 5.79/10, +0.00)
+
+ 
+C:\github\SQL\funcs\ordered_set.py 
+************* Module ordered_set
+funcs\ordered_set.py:2:0: W0311: Bad indentation. Found 8 spaces, expected 4 (bad-indentation)
+funcs\ordered_set.py:3:0: W0311: Bad indentation. Found 8 spaces, expected 4 (bad-indentation)
+funcs\ordered_set.py:4:0: W0311: Bad indentation. Found 16 spaces, expected 8 (bad-indentation)
+funcs\ordered_set.py:6:0: W0311: Bad indentation. Found 8 spaces, expected 4 (bad-indentation)
+funcs\ordered_set.py:7:0: W0311: Bad indentation. Found 8 spaces, expected 4 (bad-indentation)
+funcs\ordered_set.py:11:0: C0303: Trailing whitespace (trailing-whitespace)
+funcs\ordered_set.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\ordered_set.py:1:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\ordered_set.py:2:8: C0103: Variable name "d" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+C:\github\SQL\funcs\concat_many_items.py 
+************* Module concat_many_items
+funcs\concat_many_items.py:3:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+funcs\concat_many_items.py:4:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+funcs\concat_many_items.py:5:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+funcs\concat_many_items.py:6:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+funcs\concat_many_items.py:7:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+funcs\concat_many_items.py:8:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+funcs\concat_many_items.py:10:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+funcs\concat_many_items.py:11:0: C0304: Final newline missing (missing-final-newline)
+funcs\concat_many_items.py:11:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+funcs\concat_many_items.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\concat_many_items.py:1:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\concat_many_items.py:3:1: C0103: Variable name "d" doesn't conform to snake_case naming style (invalid-name)
+funcs\concat_many_items.py:5:5: C0121: Comparison 'quotes != None' should be 'quotes is not None' (singleton-comparison)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\funcs\describe_class_attrs_values.py 
+************* Module describe_class_attrs_values
+funcs\describe_class_attrs_values.py:21:0: C0301: Line too long (114/100) (line-too-long)
+funcs\describe_class_attrs_values.py:26:0: C0304: Final newline missing (missing-final-newline)
+funcs\describe_class_attrs_values.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\describe_class_attrs_values.py:2:0: C0410: Multiple imports on one line (os, sys) (multiple-imports)
+funcs\describe_class_attrs_values.py:4:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\describe_class_attrs_values.py:18:19: W0703: Catching too general exception Exception (broad-except)
+funcs\describe_class_attrs_values.py:18:12: C0103: Variable name "e" doesn't conform to snake_case naming style (invalid-name)
+funcs\describe_class_attrs_values.py:19:26: W0612: Unused variable 'exc_obj' (unused-variable)
+
+------------------------------------------------------------------
+Your code has been rated at 5.79/10 (previous run: 5.79/10, +0.00)
+
+ 
+C:\github\SQL\funcs\ordered_set.py 
+************* Module ordered_set
+funcs\ordered_set.py:2:0: W0311: Bad indentation. Found 8 spaces, expected 4 (bad-indentation)
+funcs\ordered_set.py:3:0: W0311: Bad indentation. Found 8 spaces, expected 4 (bad-indentation)
+funcs\ordered_set.py:4:0: W0311: Bad indentation. Found 16 spaces, expected 8 (bad-indentation)
+funcs\ordered_set.py:6:0: W0311: Bad indentation. Found 8 spaces, expected 4 (bad-indentation)
+funcs\ordered_set.py:7:0: W0311: Bad indentation. Found 8 spaces, expected 4 (bad-indentation)
+funcs\ordered_set.py:11:0: C0303: Trailing whitespace (trailing-whitespace)
+funcs\ordered_set.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\ordered_set.py:1:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\ordered_set.py:2:8: C0103: Variable name "d" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\funcs\cs\factorial.py 
+************* Module factorial
+funcs\cs\factorial.py:9:0: C0304: Final newline missing (missing-final-newline)
+funcs\cs\factorial.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\cs\factorial.py:1:14: C0103: Argument name "n" doesn't conform to snake_case naming style (invalid-name)
+funcs\cs\factorial.py:1:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 5.00/10 (previous run: 5.00/10, +0.00)
+
+ 
+C:\github\SQL\funcs\cs\fibb_number.py 
+************* Module fibb_number
+funcs\cs\fibb_number.py:8:0: W0311: Bad indentation. Found 8 spaces, expected 4 (bad-indentation)
+funcs\cs\fibb_number.py:9:0: W0311: Bad indentation. Found 8 spaces, expected 4 (bad-indentation)
+funcs\cs\fibb_number.py:10:0: W0311: Bad indentation. Found 8 spaces, expected 4 (bad-indentation)
+funcs\cs\fibb_number.py:11:0: W0311: Bad indentation. Found 8 spaces, expected 4 (bad-indentation)
+funcs\cs\fibb_number.py:12:0: W0311: Bad indentation. Found 16 spaces, expected 8 (bad-indentation)
+funcs\cs\fibb_number.py:13:0: W0311: Bad indentation. Found 8 spaces, expected 4 (bad-indentation)
+funcs\cs\fibb_number.py:14:0: W0311: Bad indentation. Found 16 spaces, expected 8 (bad-indentation)
+funcs\cs\fibb_number.py:15:0: W0311: Bad indentation. Found 8 spaces, expected 4 (bad-indentation)
+funcs\cs\fibb_number.py:16:0: W0311: Bad indentation. Found 16 spaces, expected 8 (bad-indentation)
+funcs\cs\fibb_number.py:17:0: W0311: Bad indentation. Found 8 spaces, expected 4 (bad-indentation)
+funcs\cs\fibb_number.py:19:0: W0311: Bad indentation. Found 16 spaces, expected 8 (bad-indentation)
+funcs\cs\fibb_number.py:20:0: C0301: Line too long (121/100) (line-too-long)
+funcs\cs\fibb_number.py:21:0: W0311: Bad indentation. Found 24 spaces, expected 12 (bad-indentation)
+funcs\cs\fibb_number.py:22:0: W0311: Bad indentation. Found 24 spaces, expected 12 (bad-indentation)
+funcs\cs\fibb_number.py:23:0: W0311: Bad indentation. Found 24 spaces, expected 12 (bad-indentation)
+funcs\cs\fibb_number.py:24:0: W0311: Bad indentation. Found 24 spaces, expected 12 (bad-indentation)
+funcs\cs\fibb_number.py:26:0: W0311: Bad indentation. Found 16 spaces, expected 8 (bad-indentation)
+funcs\cs\fibb_number.py:28:0: W0311: Bad indentation. Found 16 spaces, expected 8 (bad-indentation)
+funcs\cs\fibb_number.py:35:0: C0303: Trailing whitespace (trailing-whitespace)
+funcs\cs\fibb_number.py:30:1: W0511: TODO: two variations: (fixme)
+funcs\cs\fibb_number.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\cs\fibb_number.py:5:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\cs\fibb_number.py:5:0: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
+funcs\cs\fibb_number.py:19:20: W0612: Unused variable 'i' (unused-variable)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\funcs\cs\sieve_of_eratosthenes.py 
+************* Module sieve_of_eratosthenes
+funcs\cs\sieve_of_eratosthenes.py:5:0: C0301: Line too long (101/100) (line-too-long)
+funcs\cs\sieve_of_eratosthenes.py:9:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\cs\sieve_of_eratosthenes.py:10:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\cs\sieve_of_eratosthenes.py:15:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\cs\sieve_of_eratosthenes.py:16:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\cs\sieve_of_eratosthenes.py:17:0: C0304: Final newline missing (missing-final-newline)
+funcs\cs\sieve_of_eratosthenes.py:17:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\cs\sieve_of_eratosthenes.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\cs\sieve_of_eratosthenes.py:8:14: C0103: Argument name "g" doesn't conform to snake_case naming style (invalid-name)
+funcs\cs\sieve_of_eratosthenes.py:8:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\cs\sieve_of_eratosthenes.py:8:10: W0621: Redefining name 'arr' from outer scope (line 12) (redefined-outer-name)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\funcs\data_cleanup\detect_whitespaces.py 
+************* Module detect_whitespaces
+funcs\data_cleanup\detect_whitespaces.py:2:7: C0303: Trailing whitespace (trailing-whitespace)
+funcs\data_cleanup\detect_whitespaces.py:39:0: C0304: Final newline missing (missing-final-newline)
+funcs\data_cleanup\detect_whitespaces.py:34:21: W0511: TODO (fixme)
+funcs\data_cleanup\detect_whitespaces.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\data_cleanup\detect_whitespaces.py:21:0: C0103: Constant name "common_str_sep" doesn't conform to UPPER_CASE naming style (invalid-name)
+funcs\data_cleanup\detect_whitespaces.py:23:6: W1309: Using an f-string that does not have any interpolated variables (f-string-without-interpolation)
+funcs\data_cleanup\detect_whitespaces.py:25:0: C0103: Constant name "sel2" doesn't conform to UPPER_CASE naming style (invalid-name)
+funcs\data_cleanup\detect_whitespaces.py:34:5: E0602: Undefined variable 'run_pds_sql' (undefined-variable)
+funcs\data_cleanup\detect_whitespaces.py:39:0: W0104: Statement seems to have no effect (pointless-statement)
+
+------------------------------------------------------------------
+Your code has been rated at 1.33/10 (previous run: 1.33/10, +0.00)
+
+ 
+C:\github\SQL\funcs\file_manager\file_manager.py 
+************* Module file_manager
+funcs\file_manager\file_manager.py:13:0: W0311: Bad indentation. Found 8 spaces, expected 4 (bad-indentation)
+funcs\file_manager\file_manager.py:15:0: C0301: Line too long (149/100) (line-too-long)
+funcs\file_manager\file_manager.py:17:0: C0303: Trailing whitespace (trailing-whitespace)
+funcs\file_manager\file_manager.py:18:0: W0311: Bad indentation. Found 16 spaces, expected 8 (bad-indentation)
+funcs\file_manager\file_manager.py:20:0: W0311: Bad indentation. Found 8 spaces, expected 4 (bad-indentation)
+funcs\file_manager\file_manager.py:21:0: W0311: Bad indentation. Found 8 spaces, expected 4 (bad-indentation)
+funcs\file_manager\file_manager.py:28:33: W0511: TODO can i set by default index to False when to_csv (fixme)
+funcs\file_manager\file_manager.py:31:1: W0511: todo import table to google sheets (fixme)
+funcs\file_manager\file_manager.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\file_manager\file_manager.py:7:0: C0103: Constant name "start_dir" doesn't conform to UPPER_CASE naming style (invalid-name)
+funcs\file_manager\file_manager.py:13:13: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+funcs\file_manager\file_manager.py:4:0: W0611: Unused import pylint (unused-import)
+funcs\file_manager\file_manager.py:2:0: C0411: standard import "import os" should be placed before "from pathlib2 import Path" (wrong-import-order)
+
+------------------------------------------------------------------
+Your code has been rated at 1.33/10 (previous run: 1.33/10, +0.00)
+
+ 
+C:\github\SQL\funcs\file_manager\funcs_sys_append_string_gen.py 
+************* Module funcs_sys_append_string_gen
+funcs\file_manager\funcs_sys_append_string_gen.py:23:0: C0303: Trailing whitespace (trailing-whitespace)
+funcs\file_manager\funcs_sys_append_string_gen.py:30:15: C0303: Trailing whitespace (trailing-whitespace)
+funcs\file_manager\funcs_sys_append_string_gen.py:22:5: W0511: todo split check (fixme)
+funcs\file_manager\funcs_sys_append_string_gen.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\file_manager\funcs_sys_append_string_gen.py:7:0: C0103: Constant name "start_dir" doesn't conform to UPPER_CASE naming style (invalid-name)
+funcs\file_manager\funcs_sys_append_string_gen.py:11:0: C0103: Constant name "c" doesn't conform to UPPER_CASE naming style (invalid-name)
+funcs\file_manager\funcs_sys_append_string_gen.py:12:0: C0103: Constant name "file_ext" doesn't conform to UPPER_CASE naming style (invalid-name)
+funcs\file_manager\funcs_sys_append_string_gen.py:3:0: W0611: Unused pandas imported as pd (unused-import)
+funcs\file_manager\funcs_sys_append_string_gen.py:4:0: W0611: Unused import pylint (unused-import)
+funcs\file_manager\funcs_sys_append_string_gen.py:2:0: C0411: standard import "import os" should be placed before "from pathlib2 import Path" (wrong-import-order)
+
+------------------------------------------------------------------
+Your code has been rated at 4.74/10 (previous run: 4.74/10, +0.00)
+
+ 
+C:\github\SQL\funcs\file_manager\add_path_to_file\add_line_test.py 
+************* Module add_line_test
+funcs\file_manager\add_path_to_file\add_line_test.py:10:0: C0301: Line too long (106/100) (line-too-long)
+funcs\file_manager\add_path_to_file\add_line_test.py:14:0: C0301: Line too long (134/100) (line-too-long)
+funcs\file_manager\add_path_to_file\add_line_test.py:17:111: C0303: Trailing whitespace (trailing-whitespace)
+funcs\file_manager\add_path_to_file\add_line_test.py:17:0: C0301: Line too long (111/100) (line-too-long)
+funcs\file_manager\add_path_to_file\add_line_test.py:19:66: C0303: Trailing whitespace (trailing-whitespace)
+funcs\file_manager\add_path_to_file\add_line_test.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\file_manager\add_path_to_file\add_line_test.py:6:5: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+funcs\file_manager\add_path_to_file\add_line_test.py:6:42: C0321: More than one statement on a single line (multiple-statements)
+funcs\file_manager\add_path_to_file\add_line_test.py:13:5: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+funcs\file_manager\add_path_to_file\add_line_test.py:14:4: C0103: Constant name "row" doesn't conform to UPPER_CASE naming style (invalid-name)
+funcs\file_manager\add_path_to_file\add_line_test.py:1:0: W0611: Unused import os (unused-import)
+
+------------------------------------------------------------------
+Your code has been rated at 3.12/10 (previous run: 3.12/10, +0.00)
+
+ 
+C:\github\SQL\funcs\file_manager\add_path_to_file\ordered_set_copy.py 
+************* Module ordered_set_copy
+funcs\file_manager\add_path_to_file\ordered_set_copy.py:12:244: E0001: unexpected character after line continuation character (<unknown>, line 12) (syntax-error)
+ 
+C:\github\SQL\funcs\my_gsheets\googlesheets_ranges.py 
+************* Module googlesheets_ranges
+funcs\my_gsheets\googlesheets_ranges.py:2:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\googlesheets_ranges.py:3:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\googlesheets_ranges.py:5:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+funcs\my_gsheets\googlesheets_ranges.py:6:0: W0311: Bad indentation. Found 6 spaces, expected 12 (bad-indentation)
+funcs\my_gsheets\googlesheets_ranges.py:7:0: W0311: Bad indentation. Found 6 spaces, expected 12 (bad-indentation)
+funcs\my_gsheets\googlesheets_ranges.py:8:0: W0311: Bad indentation. Found 6 spaces, expected 12 (bad-indentation)
+funcs\my_gsheets\googlesheets_ranges.py:9:0: W0311: Bad indentation. Found 6 spaces, expected 12 (bad-indentation)
+funcs\my_gsheets\googlesheets_ranges.py:11:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\googlesheets_ranges.py:12:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\googlesheets_ranges.py:14:49: C0303: Trailing whitespace (trailing-whitespace)
+funcs\my_gsheets\googlesheets_ranges.py:14:1: W0511: googlesheets_ranges() #TODO solve ranges to dict  (fixme)
+funcs\my_gsheets\googlesheets_ranges.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\my_gsheets\googlesheets_ranges.py:1:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\my_gsheets\googlesheets_ranges.py:2:2: W0621: Redefining name 'googlesheets_ranges' from outer scope (line 1) (redefined-outer-name)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\funcs\my_gsheets\gspread_addon.py 
+************* Module gspread_addon
+funcs\my_gsheets\gspread_addon.py:4:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:5:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:6:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:7:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:8:0: C0301: Line too long (110/100) (line-too-long)
+funcs\my_gsheets\gspread_addon.py:8:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:10:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:14:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:20:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:21:0: C0301: Line too long (128/100) (line-too-long)
+funcs\my_gsheets\gspread_addon.py:21:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:22:0: W0311: Bad indentation. Found 6 spaces, expected 8 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:23:0: W0311: Bad indentation. Found 6 spaces, expected 8 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:25:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:26:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:28:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:29:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:31:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:33:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:35:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:36:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:38:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:39:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:40:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:41:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:45:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:46:0: C0301: Line too long (128/100) (line-too-long)
+funcs\my_gsheets\gspread_addon.py:46:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:47:0: W0311: Bad indentation. Found 6 spaces, expected 8 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:48:0: W0311: Bad indentation. Found 6 spaces, expected 8 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:50:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:51:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:53:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:54:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:56:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:58:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:60:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:61:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:63:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:64:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:65:0: W0311: Bad indentation. Found 6 spaces, expected 12 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:66:0: W0311: Bad indentation. Found 6 spaces, expected 12 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:67:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:68:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:69:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:72:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:73:0: C0301: Line too long (128/100) (line-too-long)
+funcs\my_gsheets\gspread_addon.py:73:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:74:0: W0311: Bad indentation. Found 6 spaces, expected 8 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:75:0: W0311: Bad indentation. Found 6 spaces, expected 8 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:77:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:78:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:80:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:81:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:83:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:85:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:87:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:88:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:90:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:93:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:94:0: C0301: Line too long (128/100) (line-too-long)
+funcs\my_gsheets\gspread_addon.py:94:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:95:0: W0311: Bad indentation. Found 6 spaces, expected 8 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:96:0: W0311: Bad indentation. Found 6 spaces, expected 8 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:98:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:99:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:101:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:102:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:104:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:106:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:108:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:109:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:110:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:111:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gspread_addon.py:19:3: W0511: TODO authorization (fixme)
+funcs\my_gsheets\gspread_addon.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\my_gsheets\gspread_addon.py:5:2: W0105: String statement has no effect (pointless-string-statement)
+funcs\my_gsheets\gspread_addon.py:6:2: W0105: String statement has no effect (pointless-string-statement)
+funcs\my_gsheets\gspread_addon.py:7:2: W0105: String statement has no effect (pointless-string-statement)
+funcs\my_gsheets\gspread_addon.py:8:2: W0105: String statement has no effect (pointless-string-statement)
+funcs\my_gsheets\gspread_addon.py:10:8: C0209: Formatting a regular string which could be a f-string (consider-using-f-string)
+funcs\my_gsheets\gspread_addon.py:18:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\my_gsheets\gspread_addon.py:31:2: W0621: Redefining name 'pd' from outer scope (line 1) (redefined-outer-name)
+funcs\my_gsheets\gspread_addon.py:25:2: E0401: Unable to import 'google.colab' (import-error)
+funcs\my_gsheets\gspread_addon.py:25:2: C0415: Import outside toplevel (google.colab.auth) (import-outside-toplevel)
+funcs\my_gsheets\gspread_addon.py:28:2: C0415: Import outside toplevel (gspread) (import-outside-toplevel)
+funcs\my_gsheets\gspread_addon.py:28:2: E0401: Unable to import 'gspread' (import-error)
+funcs\my_gsheets\gspread_addon.py:29:2: E0401: Unable to import 'google.auth' (import-error)
+funcs\my_gsheets\gspread_addon.py:29:2: C0415: Import outside toplevel (google.auth.default) (import-outside-toplevel)
+funcs\my_gsheets\gspread_addon.py:31:2: W0404: Reimport 'pandas' (imported line 1) (reimported)
+funcs\my_gsheets\gspread_addon.py:31:2: C0415: Import outside toplevel (pandas) (import-outside-toplevel)
+funcs\my_gsheets\gspread_addon.py:35:2: C0103: Variable name "gc" doesn't conform to snake_case naming style (invalid-name)
+funcs\my_gsheets\gspread_addon.py:36:2: C0103: Variable name "sh" doesn't conform to snake_case naming style (invalid-name)
+funcs\my_gsheets\gspread_addon.py:39:2: C0103: Variable name "df" doesn't conform to snake_case naming style (invalid-name)
+funcs\my_gsheets\gspread_addon.py:44:0: C0103: Function name "writeDfToGsheet" doesn't conform to snake_case naming style (invalid-name)
+funcs\my_gsheets\gspread_addon.py:44:49: C0103: Argument name "dfColumnsList" doesn't conform to snake_case naming style (invalid-name)
+funcs\my_gsheets\gspread_addon.py:44:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\my_gsheets\gspread_addon.py:56:2: W0621: Redefining name 'pd' from outer scope (line 1) (redefined-outer-name)
+funcs\my_gsheets\gspread_addon.py:50:2: E0401: Unable to import 'google.colab' (import-error)
+funcs\my_gsheets\gspread_addon.py:50:2: C0415: Import outside toplevel (google.colab.auth) (import-outside-toplevel)
+funcs\my_gsheets\gspread_addon.py:53:2: C0415: Import outside toplevel (gspread) (import-outside-toplevel)
+funcs\my_gsheets\gspread_addon.py:53:2: E0401: Unable to import 'gspread' (import-error)
+funcs\my_gsheets\gspread_addon.py:54:2: E0401: Unable to import 'google.auth' (import-error)
+funcs\my_gsheets\gspread_addon.py:54:2: C0415: Import outside toplevel (google.auth.default) (import-outside-toplevel)
+funcs\my_gsheets\gspread_addon.py:56:2: W0404: Reimport 'pandas' (imported line 1) (reimported)
+funcs\my_gsheets\gspread_addon.py:56:2: C0415: Import outside toplevel (pandas) (import-outside-toplevel)
+funcs\my_gsheets\gspread_addon.py:60:2: C0103: Variable name "gc" doesn't conform to snake_case naming style (invalid-name)
+funcs\my_gsheets\gspread_addon.py:61:2: C0103: Variable name "sh" doesn't conform to snake_case naming style (invalid-name)
+funcs\my_gsheets\gspread_addon.py:69:9: E0602: Undefined variable 'df' (undefined-variable)
+funcs\my_gsheets\gspread_addon.py:56:2: W0611: Unused pandas imported as pd (unused-import)
+funcs\my_gsheets\gspread_addon.py:71:0: C0103: Function name "insertDfToGsheet" doesn't conform to snake_case naming style (invalid-name)
+funcs\my_gsheets\gspread_addon.py:71:50: C0103: Argument name "dfColumnsList" doesn't conform to snake_case naming style (invalid-name)
+funcs\my_gsheets\gspread_addon.py:71:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\my_gsheets\gspread_addon.py:83:2: W0621: Redefining name 'pd' from outer scope (line 1) (redefined-outer-name)
+funcs\my_gsheets\gspread_addon.py:77:2: E0401: Unable to import 'google.colab' (import-error)
+funcs\my_gsheets\gspread_addon.py:77:2: C0415: Import outside toplevel (google.colab.auth) (import-outside-toplevel)
+funcs\my_gsheets\gspread_addon.py:80:2: C0415: Import outside toplevel (gspread) (import-outside-toplevel)
+funcs\my_gsheets\gspread_addon.py:80:2: E0401: Unable to import 'gspread' (import-error)
+funcs\my_gsheets\gspread_addon.py:81:2: E0401: Unable to import 'google.auth' (import-error)
+funcs\my_gsheets\gspread_addon.py:81:2: C0415: Import outside toplevel (google.auth.default) (import-outside-toplevel)
+funcs\my_gsheets\gspread_addon.py:83:2: W0404: Reimport 'pandas' (imported line 1) (reimported)
+funcs\my_gsheets\gspread_addon.py:83:2: C0415: Import outside toplevel (pandas) (import-outside-toplevel)
+funcs\my_gsheets\gspread_addon.py:87:2: C0103: Variable name "gc" doesn't conform to snake_case naming style (invalid-name)
+funcs\my_gsheets\gspread_addon.py:88:2: C0103: Variable name "sh" doesn't conform to snake_case naming style (invalid-name)
+funcs\my_gsheets\gspread_addon.py:71:50: W0613: Unused argument 'dfColumnsList' (unused-argument)
+funcs\my_gsheets\gspread_addon.py:83:2: W0611: Unused pandas imported as pd (unused-import)
+funcs\my_gsheets\gspread_addon.py:92:0: C0103: Function name "createNewWorkbookSheet" doesn't conform to snake_case naming style (invalid-name)
+funcs\my_gsheets\gspread_addon.py:92:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\my_gsheets\gspread_addon.py:104:2: W0621: Redefining name 'pd' from outer scope (line 1) (redefined-outer-name)
+funcs\my_gsheets\gspread_addon.py:98:2: E0401: Unable to import 'google.colab' (import-error)
+funcs\my_gsheets\gspread_addon.py:98:2: C0415: Import outside toplevel (google.colab.auth) (import-outside-toplevel)
+funcs\my_gsheets\gspread_addon.py:101:2: C0415: Import outside toplevel (gspread) (import-outside-toplevel)
+funcs\my_gsheets\gspread_addon.py:101:2: E0401: Unable to import 'gspread' (import-error)
+funcs\my_gsheets\gspread_addon.py:102:2: E0401: Unable to import 'google.auth' (import-error)
+funcs\my_gsheets\gspread_addon.py:102:2: C0415: Import outside toplevel (google.auth.default) (import-outside-toplevel)
+funcs\my_gsheets\gspread_addon.py:104:2: W0404: Reimport 'pandas' (imported line 1) (reimported)
+funcs\my_gsheets\gspread_addon.py:104:2: C0415: Import outside toplevel (pandas) (import-outside-toplevel)
+funcs\my_gsheets\gspread_addon.py:108:2: C0103: Variable name "gc" doesn't conform to snake_case naming style (invalid-name)
+funcs\my_gsheets\gspread_addon.py:109:2: C0103: Variable name "sh" doesn't conform to snake_case naming style (invalid-name)
+funcs\my_gsheets\gspread_addon.py:111:20: E0602: Undefined variable 'dataframe' (undefined-variable)
+funcs\my_gsheets\gspread_addon.py:111:57: E0602: Undefined variable 'dataframe' (undefined-variable)
+funcs\my_gsheets\gspread_addon.py:104:2: W0611: Unused pandas imported as pd (unused-import)
+funcs\my_gsheets\gspread_addon.py:110:2: W0612: Unused variable 'worksheet' (unused-variable)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\funcs\my_gsheets\gs_generate_range.py 
+************* Module gs_generate_range
+funcs\my_gsheets\gs_generate_range.py:9:0: C0303: Trailing whitespace (trailing-whitespace)
+funcs\my_gsheets\gs_generate_range.py:10:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gs_generate_range.py:14:0: C0303: Trailing whitespace (trailing-whitespace)
+funcs\my_gsheets\gs_generate_range.py:15:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gs_generate_range.py:16:0: C0303: Trailing whitespace (trailing-whitespace)
+funcs\my_gsheets\gs_generate_range.py:18:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gs_generate_range.py:20:0: C0303: Trailing whitespace (trailing-whitespace)
+funcs\my_gsheets\gs_generate_range.py:21:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gs_generate_range.py:25:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gs_generate_range.py:26:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gs_generate_range.py:27:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gs_generate_range.py:29:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gs_generate_range.py:30:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gs_generate_range.py:32:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gs_generate_range.py:33:0: W0311: Bad indentation. Found 6 spaces, expected 8 (bad-indentation)
+funcs\my_gsheets\gs_generate_range.py:34:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gs_generate_range.py:35:0: W0311: Bad indentation. Found 6 spaces, expected 8 (bad-indentation)
+funcs\my_gsheets\gs_generate_range.py:36:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gs_generate_range.py:37:0: W0311: Bad indentation. Found 6 spaces, expected 8 (bad-indentation)
+funcs\my_gsheets\gs_generate_range.py:38:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_gsheets\gs_generate_range.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\my_gsheets\gs_generate_range.py:2:0: C0411: standard import "import re" should be placed before "from googlesheets_ranges import googlesheets_ranges" (wrong-import-order)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\funcs\my_gsheets\regex math operators in loop.py 
+************* Module C:\github\SQL\funcs\my_gsheets\regex
+funcs\my_gsheets\regex:1:0: F0001: No module named funcs\my_gsheets\regex (fatal)
+************* Module math
+math:1:0: F0001: No module named math (fatal)
+************* Module operators
+operators:1:0: F0001: No module named operators (fatal)
+************* Module in
+in:1:0: F0001: No module named in (fatal)
+************* Module loop.py
+loop.py:1:0: F0001: No module named loop.py (fatal)
+ 
+C:\github\SQL\funcs\my_gsheets\unpack all russian string sequences [same code for different description].py 
+************* Module C:\github\SQL\funcs\my_gsheets\unpack
+funcs\my_gsheets\unpack:1:0: F0001: No module named funcs\my_gsheets\unpack (fatal)
+************* Module all
+all:1:0: F0001: No module named all (fatal)
+************* Module russian
+russian:1:0: F0001: No module named russian (fatal)
+************* Module sequences
+sequences:1:0: F0001: No module named sequences (fatal)
+************* Module [same
+[same:1:0: F0001: No module named [same (fatal)
+************* Module for
+for:1:0: F0001: No module named for (fatal)
+************* Module different
+different:1:0: F0001: No module named different (fatal)
+************* Module description].py
+description].py:1:0: F0001: No module named description].py (fatal)
+************* Module string
+C:\Python36\lib\string.py:24:0: C0103: Constant name "whitespace" doesn't conform to UPPER_CASE naming style (invalid-name)
+C:\Python36\lib\string.py:25:0: C0103: Constant name "ascii_lowercase" doesn't conform to UPPER_CASE naming style (invalid-name)
+C:\Python36\lib\string.py:26:0: C0103: Constant name "ascii_uppercase" doesn't conform to UPPER_CASE naming style (invalid-name)
+C:\Python36\lib\string.py:27:0: C0103: Constant name "ascii_letters" doesn't conform to UPPER_CASE naming style (invalid-name)
+C:\Python36\lib\string.py:28:0: C0103: Constant name "digits" doesn't conform to UPPER_CASE naming style (invalid-name)
+C:\Python36\lib\string.py:29:0: C0103: Constant name "hexdigits" doesn't conform to UPPER_CASE naming style (invalid-name)
+C:\Python36\lib\string.py:30:0: C0103: Constant name "octdigits" doesn't conform to UPPER_CASE naming style (invalid-name)
+C:\Python36\lib\string.py:31:0: C0103: Constant name "punctuation" doesn't conform to UPPER_CASE naming style (invalid-name)
+C:\Python36\lib\string.py:32:0: C0103: Constant name "printable" doesn't conform to UPPER_CASE naming style (invalid-name)
+C:\Python36\lib\string.py:37:13: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+C:\Python36\lib\string.py:52:0: C0413: Import "import re as _re" should be placed at the top of the module (wrong-import-position)
+C:\Python36\lib\string.py:53:0: C0413: Import "from collections import ChainMap as _ChainMap" should be placed at the top of the module (wrong-import-position)
+C:\Python36\lib\string.py:93:23: C0103: Argument name "mo" doesn't conform to snake_case naming style (invalid-name)
+C:\Python36\lib\string.py:102:25: C0209: Formatting a regular string which could be a f-string (consider-using-f-string)
+C:\Python36\lib\string.py:105:4: C0116: Missing function or method docstring (missing-function-docstring)
+C:\Python36\lib\string.py:105:4: E0211: Method has no argument (no-method-argument)
+C:\Python36\lib\string.py:119:20: C0103: Argument name "mo" doesn't conform to snake_case naming style (invalid-name)
+C:\Python36\lib\string.py:127:16: W0212: Access to a protected member _invalid of a client class (protected-access)
+C:\Python36\lib\string.py:132:4: C0116: Missing function or method docstring (missing-function-docstring)
+C:\Python36\lib\string.py:132:4: E0211: Method has no argument (no-method-argument)
+C:\Python36\lib\string.py:146:20: C0103: Argument name "mo" doesn't conform to snake_case naming style (invalid-name)
+C:\Python36\lib\string.py:173:0: C0115: Missing class docstring (missing-class-docstring)
+C:\Python36\lib\string.py:174:4: C0116: Missing function or method docstring (missing-function-docstring)
+C:\Python36\lib\string.py:174:4: E0211: Method has no argument (no-method-argument)
+C:\Python36\lib\string.py:184:16: C0415: Import outside toplevel (warnings) (import-outside-toplevel)
+C:\Python36\lib\string.py:192:4: C0116: Missing function or method docstring (missing-function-docstring)
+C:\Python36\lib\string.py:198:4: R0913: Too many arguments (7/5) (too-many-arguments)
+C:\Python36\lib\string.py:252:4: C0116: Missing function or method docstring (missing-function-docstring)
+C:\Python36\lib\string.py:253:8: R1705: Unnecessary "else" after "return", remove the "else" and de-indent the code inside it (no-else-return)
+C:\Python36\lib\string.py:252:4: R0201: Method could be a function (no-self-use)
+C:\Python36\lib\string.py:259:4: C0116: Missing function or method docstring (missing-function-docstring)
+C:\Python36\lib\string.py:263:4: C0116: Missing function or method docstring (missing-function-docstring)
+C:\Python36\lib\string.py:263:4: R0201: Method could be a function (no-self-use)
+C:\Python36\lib\string.py:267:4: C0116: Missing function or method docstring (missing-function-docstring)
+C:\Python36\lib\string.py:269:8: R1705: Unnecessary "elif" after "return", remove the leading "el" from "elif" (no-else-return)
+C:\Python36\lib\string.py:277:25: C0209: Formatting a regular string which could be a f-string (consider-using-f-string)
+C:\Python36\lib\string.py:267:4: R0201: Method could be a function (no-self-use)
+C:\Python36\lib\string.py:287:4: C0116: Missing function or method docstring (missing-function-docstring)
+C:\Python36\lib\string.py:287:4: R0201: Method could be a function (no-self-use)
+C:\Python36\lib\string.py:296:4: C0116: Missing function or method docstring (missing-function-docstring)
+C:\Python36\lib\string.py:52:0: C0411: standard import "import re as _re" should be placed before "import _string" (wrong-import-order)
+C:\Python36\lib\string.py:53:0: C0411: standard import "from collections import ChainMap as _ChainMap" should be placed before "import _string" (wrong-import-order)
+************* Module code
+C:\Python36\lib\code.py:25:23: W0622: Redefining built-in 'locals' (redefined-builtin)
+C:\Python36\lib\code.py:94:8: W0702: No exception type(s) specified (bare-except)
+C:\Python36\lib\code.py:91:12: W0122: Use of exec (exec-used)
+C:\Python36\lib\code.py:109:8: W0622: Redefining built-in 'type' (redefined-builtin)
+C:\Python36\lib\code.py:109:21: C0103: Variable name "tb" doesn't conform to snake_case naming style (invalid-name)
+C:\Python36\lib\code.py:140:49: C0103: Variable name "ei" doesn't conform to snake_case naming style (invalid-name)
+C:\Python36\lib\code.py:151:22: C0103: Variable name "ei" doesn't conform to snake_case naming style (invalid-name)
+C:\Python36\lib\code.py:153:4: R0201: Method could be a function (no-self-use)
+C:\Python36\lib\code.py:171:23: W0622: Redefining built-in 'locals' (redefined-builtin)
+C:\Python36\lib\code.py:189:23: W0621: Redefining name 'banner' from outer scope (line 311) (redefined-outer-name)
+C:\Python36\lib\code.py:215:23: C0209: Formatting a regular string which could be a f-string (consider-using-f-string)
+C:\Python36\lib\code.py:219:23: C0209: Formatting a regular string which could be a f-string (consider-using-f-string)
+C:\Python36\lib\code.py:239:23: C0209: Formatting a regular string which could be a f-string (consider-using-f-string)
+C:\Python36\lib\code.py:241:23: C0209: Formatting a regular string which could be a f-string (consider-using-f-string)
+C:\Python36\lib\code.py:264:4: R0201: Method could be a function (no-self-use)
+C:\Python36\lib\code.py:279:13: W0621: Redefining name 'banner' from outer scope (line 311) (redefined-outer-name)
+C:\Python36\lib\code.py:299:12: C0415: Import outside toplevel (readline) (import-outside-toplevel)
+C:\Python36\lib\code.py:299:12: W0611: Unused import readline (unused-import)
+C:\Python36\lib\code.py:311:8: C0103: Constant name "banner" doesn't conform to UPPER_CASE naming style (invalid-name)
+C:\Python36\lib\code.py:313:8: C0103: Constant name "banner" doesn't conform to UPPER_CASE naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\funcs\my_gsheets\formula_string_generators\gen_statements.py 
+************* Module gen_statements
+funcs\my_gsheets\formula_string_generators\gen_statements.py:7:0: C0303: Trailing whitespace (trailing-whitespace)
+funcs\my_gsheets\formula_string_generators\gen_statements.py:16:0: C0303: Trailing whitespace (trailing-whitespace)
+funcs\my_gsheets\formula_string_generators\gen_statements.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\my_gsheets\formula_string_generators\gen_statements.py:1:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\my_gsheets\formula_string_generators\gen_statements.py:1:21: W0621: Redefining name 'ranges_string' from outer scope (line 17) (redefined-outer-name)
+funcs\my_gsheets\formula_string_generators\gen_statements.py:17:0: C0103: Constant name "ranges_string" doesn't conform to UPPER_CASE naming style (invalid-name)
+funcs\my_gsheets\formula_string_generators\gen_statements.py:18:0: E1111: Assigning result of a function call, where the function has no return (assignment-from-no-return)
+funcs\my_gsheets\formula_string_generators\gen_statements.py:18:0: C0103: Constant name "r" doesn't conform to UPPER_CASE naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\funcs\my_gsheets\formula_string_generators\statement_foreach_of_row.py 
+************* Module statement_foreach_of_row
+funcs\my_gsheets\formula_string_generators\statement_foreach_of_row.py:2:1: E0001: unexpected EOF while parsing (<unknown>, line 2) (syntax-error)
+ 
+C:\github\SQL\funcs\my_pandas\neighbour_intersections_triangle.py 
+ 
+C:\github\SQL\funcs\my_pandas\generate_pivot_tables\define_comb_amount.py 
+************* Module define_comb_amount
+funcs\my_pandas\generate_pivot_tables\define_comb_amount.py:6:0: C0303: Trailing whitespace (trailing-whitespace)
+funcs\my_pandas\generate_pivot_tables\define_comb_amount.py:7:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_pandas\generate_pivot_tables\define_comb_amount.py:8:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_pandas\generate_pivot_tables\define_comb_amount.py:9:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+funcs\my_pandas\generate_pivot_tables\define_comb_amount.py:10:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+funcs\my_pandas\generate_pivot_tables\define_comb_amount.py:12:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\my_pandas\generate_pivot_tables\define_comb_amount.py:13:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+funcs\my_pandas\generate_pivot_tables\define_comb_amount.py:14:0: C0303: Trailing whitespace (trailing-whitespace)
+funcs\my_pandas\generate_pivot_tables\define_comb_amount.py:15:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+funcs\my_pandas\generate_pivot_tables\define_comb_amount.py:16:0: C0301: Line too long (112/100) (line-too-long)
+funcs\my_pandas\generate_pivot_tables\define_comb_amount.py:16:0: W0311: Bad indentation. Found 8 spaces, expected 12 (bad-indentation)
+funcs\my_pandas\generate_pivot_tables\define_comb_amount.py:17:0: W0311: Bad indentation. Found 8 spaces, expected 12 (bad-indentation)
+funcs\my_pandas\generate_pivot_tables\define_comb_amount.py:19:0: W0311: Bad indentation. Found 8 spaces, expected 12 (bad-indentation)
+funcs\my_pandas\generate_pivot_tables\define_comb_amount.py:21:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+funcs\my_pandas\generate_pivot_tables\define_comb_amount.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\my_pandas\generate_pivot_tables\define_comb_amount.py:4:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\my_pandas\generate_pivot_tables\define_comb_amount.py:4:23: W0621: Redefining name 'test' from outer scope (line 24) (redefined-outer-name)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\funcs\my_pandas\generate_pivot_tables\generator.py 
+************* Module generator
+funcs\my_pandas\generate_pivot_tables\generator.py:1:0: F0010: error while code parsing: Wrong or no encoding specified for C:\github\SQL\funcs\my_pandas\generate_pivot_tables\generator.py. (parse-error)
+ 
+C:\github\SQL\funcs\os\rglob_files_from_folder.py 
+************* Module rglob_files_from_folder
+funcs\os\rglob_files_from_folder.py:1:15: E0001: invalid syntax (<fstring>, line 1) (syntax-error)
+ 
+C:\github\SQL\funcs\qc\last_modification_date.py 
+************* Module last_modification_date
+funcs\qc\last_modification_date.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\qc\last_modification_date.py:4:0: C0103: Constant name "filepath" doesn't conform to UPPER_CASE naming style (invalid-name)
+funcs\qc\last_modification_date.py:8:6: C0209: Formatting a regular string which could be a f-string (consider-using-f-string)
+
+------------------------------------------------------------------
+Your code has been rated at 4.00/10 (previous run: 4.00/10, +0.00)
+
+ 
+C:\github\SQL\funcs\sql_bigo\simulate_garbage_data.py 
+************* Module simulate_garbage_data
+funcs\sql_bigo\simulate_garbage_data.py:9:0: C0301: Line too long (110/100) (line-too-long)
+funcs\sql_bigo\simulate_garbage_data.py:13:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_bigo\simulate_garbage_data.py:14:0: C0304: Final newline missing (missing-final-newline)
+funcs\sql_bigo\simulate_garbage_data.py:14:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_bigo\simulate_garbage_data.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\sql_bigo\simulate_garbage_data.py:4:0: C0103: Constant name "range_limit" doesn't conform to UPPER_CASE naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 3.33/10 (previous run: 3.33/10, +0.00)
+
+ 
+C:\github\SQL\funcs\sql_experiments\analytical_libs.py 
+************* Module analytical_libs
+funcs\sql_experiments\analytical_libs.py:6:0: C0304: Final newline missing (missing-final-newline)
+funcs\sql_experiments\analytical_libs.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\sql_experiments\analytical_libs.py:1:0: W0611: Unused pandas imported as pd (unused-import)
+funcs\sql_experiments\analytical_libs.py:2:0: W0611: Unused numpy imported as np (unused-import)
+funcs\sql_experiments\analytical_libs.py:3:0: W0611: Unused import re (unused-import)
+funcs\sql_experiments\analytical_libs.py:5:0: W0611: Unused matplotlib.pyplot imported as plt (unused-import)
+funcs\sql_experiments\analytical_libs.py:6:0: W0611: Unused import seaborn (unused-import)
+funcs\sql_experiments\analytical_libs.py:3:0: C0411: standard import "import re" should be placed before "import pandas as pd" (wrong-import-order)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\funcs\sql_experiments\create_insert_table.py 
+************* Module create_insert_table
+funcs\sql_experiments\create_insert_table.py:2:0: C0301: Line too long (102/100) (line-too-long)
+funcs\sql_experiments\create_insert_table.py:4:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\create_insert_table.py:5:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\create_insert_table.py:7:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\create_insert_table.py:8:0: C0301: Line too long (110/100) (line-too-long)
+funcs\sql_experiments\create_insert_table.py:9:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\create_insert_table.py:11:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\create_insert_table.py:12:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\create_insert_table.py:14:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\create_insert_table.py:16:59: C0303: Trailing whitespace (trailing-whitespace)
+funcs\sql_experiments\create_insert_table.py:16:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\create_insert_table.py:17:76: C0303: Trailing whitespace (trailing-whitespace)
+funcs\sql_experiments\create_insert_table.py:18:62: C0303: Trailing whitespace (trailing-whitespace)
+funcs\sql_experiments\create_insert_table.py:20:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\create_insert_table.py:21:0: C0301: Line too long (147/100) (line-too-long)
+funcs\sql_experiments\create_insert_table.py:21:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\create_insert_table.py:22:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\create_insert_table.py:23:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\create_insert_table.py:24:0: C0301: Line too long (118/100) (line-too-long)
+funcs\sql_experiments\create_insert_table.py:24:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\create_insert_table.py:26:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\create_insert_table.py:27:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\create_insert_table.py:28:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\create_insert_table.py:30:39: C0303: Trailing whitespace (trailing-whitespace)
+funcs\sql_experiments\create_insert_table.py:30:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\create_insert_table.py:31:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\create_insert_table.py:32:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\create_insert_table.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\sql_experiments\create_insert_table.py:1:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\sql_experiments\create_insert_table.py:1:0: R0914: Too many local variables (17/15) (too-many-locals)
+funcs\sql_experiments\create_insert_table.py:4:2: E0401: Unable to import 'google.colab' (import-error)
+funcs\sql_experiments\create_insert_table.py:4:2: C0415: Import outside toplevel (google.colab.files) (import-outside-toplevel)
+funcs\sql_experiments\create_insert_table.py:5:2: C0415: Import outside toplevel (numpy.number) (import-outside-toplevel)
+funcs\sql_experiments\create_insert_table.py:22:2: W0122: Use of exec (exec-used)
+funcs\sql_experiments\create_insert_table.py:28:7: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+funcs\sql_experiments\create_insert_table.py:28:42: C0103: Variable name "f" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\create_insert_table.py:28:44: C0321: More than one statement on a single line (multiple-statements)
+funcs\sql_experiments\create_insert_table.py:35:0: C0103: Constant name "Phones_create_table" doesn't conform to UPPER_CASE naming style (invalid-name)
+funcs\sql_experiments\create_insert_table.py:42:0: E0602: Undefined variable 'df_zip_expression' (undefined-variable)
+funcs\sql_experiments\create_insert_table.py:42:27: E0602: Undefined variable 'Phones' (undefined-variable)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\funcs\sql_experiments\entity_population_randomly.py 
+************* Module entity_population_randomly
+funcs\sql_experiments\entity_population_randomly.py:1:0: C0301: Line too long (108/100) (line-too-long)
+funcs\sql_experiments\entity_population_randomly.py:2:0: C0301: Line too long (102/100) (line-too-long)
+funcs\sql_experiments\entity_population_randomly.py:3:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\entity_population_randomly.py:4:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\entity_population_randomly.py:6:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\entity_population_randomly.py:7:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+funcs\sql_experiments\entity_population_randomly.py:8:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+funcs\sql_experiments\entity_population_randomly.py:9:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+funcs\sql_experiments\entity_population_randomly.py:10:0: W0311: Bad indentation. Found 6 spaces, expected 12 (bad-indentation)
+funcs\sql_experiments\entity_population_randomly.py:11:0: W0311: Bad indentation. Found 6 spaces, expected 12 (bad-indentation)
+funcs\sql_experiments\entity_population_randomly.py:13:0: W0311: Bad indentation. Found 6 spaces, expected 12 (bad-indentation)
+funcs\sql_experiments\entity_population_randomly.py:14:0: W0311: Bad indentation. Found 8 spaces, expected 16 (bad-indentation)
+funcs\sql_experiments\entity_population_randomly.py:16:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\entity_population_randomly.py:18:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\entity_population_randomly.py:19:43: C0303: Trailing whitespace (trailing-whitespace)
+funcs\sql_experiments\entity_population_randomly.py:19:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+funcs\sql_experiments\entity_population_randomly.py:20:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+funcs\sql_experiments\entity_population_randomly.py:21:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+funcs\sql_experiments\entity_population_randomly.py:22:7: C0303: Trailing whitespace (trailing-whitespace)
+funcs\sql_experiments\entity_population_randomly.py:22:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\entity_population_randomly.py:23:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+funcs\sql_experiments\entity_population_randomly.py:24:0: C0304: Final newline missing (missing-final-newline)
+funcs\sql_experiments\entity_population_randomly.py:24:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\entity_population_randomly.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\sql_experiments\entity_population_randomly.py:1:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\sql_experiments\entity_population_randomly.py:7:17: E0602: Undefined variable 'r' (undefined-variable)
+funcs\sql_experiments\entity_population_randomly.py:10:28: E0602: Undefined variable 'r' (undefined-variable)
+funcs\sql_experiments\entity_population_randomly.py:6:6: W0612: Unused variable 'i' (unused-variable)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\funcs\sql_experiments\join_pseudotables.py 
+************* Module join_pseudotables
+funcs\sql_experiments\join_pseudotables.py:23:0: C0303: Trailing whitespace (trailing-whitespace)
+funcs\sql_experiments\join_pseudotables.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\sql_experiments\join_pseudotables.py:2:0: C0103: Constant name "t1" doesn't conform to UPPER_CASE naming style (invalid-name)
+funcs\sql_experiments\join_pseudotables.py:6:0: C0103: Constant name "t2" doesn't conform to UPPER_CASE naming style (invalid-name)
+funcs\sql_experiments\join_pseudotables.py:12:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\sql_experiments\join_pseudotables.py:16:11: C0103: Argument name "t1" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\join_pseudotables.py:16:14: C0103: Argument name "t2" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\join_pseudotables.py:16:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\sql_experiments\join_pseudotables.py:16:11: W0621: Redefining name 't1' from outer scope (line 2) (redefined-outer-name)
+funcs\sql_experiments\join_pseudotables.py:16:14: W0621: Redefining name 't2' from outer scope (line 6) (redefined-outer-name)
+funcs\sql_experiments\join_pseudotables.py:20:4: W0621: Redefining name 'r1' from outer scope (line 32) (redefined-outer-name)
+funcs\sql_experiments\join_pseudotables.py:20:7: W0621: Redefining name 'r2' from outer scope (line 32) (redefined-outer-name)
+funcs\sql_experiments\join_pseudotables.py:18:4: C0103: Variable name "l1" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\join_pseudotables.py:18:7: C0103: Variable name "l2" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\join_pseudotables.py:20:4: C0103: Variable name "r1" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\join_pseudotables.py:20:7: C0103: Variable name "r2" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\join_pseudotables.py:22:4: C0103: Variable name "r1" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\join_pseudotables.py:22:8: C0103: Variable name "r2" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\funcs\sql_experiments\slice_sql_clause.py 
+************* Module slice_sql_clause
+funcs\sql_experiments\slice_sql_clause.py:2:0: C0301: Line too long (121/100) (line-too-long)
+funcs\sql_experiments\slice_sql_clause.py:3:0: C0301: Line too long (163/100) (line-too-long)
+funcs\sql_experiments\slice_sql_clause.py:33:0: C0304: Final newline missing (missing-final-newline)
+funcs\sql_experiments\slice_sql_clause.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\sql_experiments\slice_sql_clause.py:1:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\sql_experiments\slice_sql_clause.py:20:4: W0104: Statement seems to have no effect (pointless-statement)
+funcs\sql_experiments\slice_sql_clause.py:25:4: C0200: Consider using enumerate instead of iterating with range and len (consider-using-enumerate)
+funcs\sql_experiments\slice_sql_clause.py:28:11: C0121: Comparison 'input_token != None' should be 'input_token is not None' (singleton-comparison)
+funcs\sql_experiments\slice_sql_clause.py:21:4: W0612: Unused variable 'my_dict2' (unused-variable)
+
+------------------------------------------------------------------
+Your code has been rated at 4.71/10 (previous run: 4.71/10, +0.00)
+
+ 
+C:\github\SQL\funcs\sql_experiments\unpack_lists_in_column.py 
+************* Module unpack_lists_in_column
+funcs\sql_experiments\unpack_lists_in_column.py:3:0: C0303: Trailing whitespace (trailing-whitespace)
+funcs\sql_experiments\unpack_lists_in_column.py:10:0: C0303: Trailing whitespace (trailing-whitespace)
+funcs\sql_experiments\unpack_lists_in_column.py:12:0: C0303: Trailing whitespace (trailing-whitespace)
+funcs\sql_experiments\unpack_lists_in_column.py:14:0: C0303: Trailing whitespace (trailing-whitespace)
+funcs\sql_experiments\unpack_lists_in_column.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\sql_experiments\unpack_lists_in_column.py:1:27: C0103: Argument name "t1" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\unpack_lists_in_column.py:1:30: C0103: Argument name "c1" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\unpack_lists_in_column.py:1:33: C0103: Argument name "c2" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\unpack_lists_in_column.py:1:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\sql_experiments\unpack_lists_in_column.py:2:4: C0103: Variable name "c3" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\unpack_lists_in_column.py:4:8: C0103: Variable name "l" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\unpack_lists_in_column.py:4:10: C0103: Variable name "r" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\unpack_lists_in_column.py:8:8: W0702: No exception type(s) specified (bare-except)
+funcs\sql_experiments\unpack_lists_in_column.py:6:12: C0103: Variable name "a" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\unpack_lists_in_column.py:15:8: C0103: Variable name "l" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\unpack_lists_in_column.py:15:10: C0103: Variable name "r" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\unpack_lists_in_column.py:24:8: W0702: No exception type(s) specified (bare-except)
+funcs\sql_experiments\unpack_lists_in_column.py:17:12: C0200: Consider using enumerate instead of iterating with range and len (consider-using-enumerate)
+funcs\sql_experiments\unpack_lists_in_column.py:21:16: W0702: No exception type(s) specified (bare-except)
+
+------------------------------------------------------------------
+Your code has been rated at 0.50/10 (previous run: 0.50/10, +0.00)
+
+ 
+C:\github\SQL\funcs\sql_experiments\calculus\comulative_struct.py 
+************* Module comulative_struct
+funcs\sql_experiments\calculus\comulative_struct.py:52:0: C0305: Trailing newlines (trailing-newlines)
+funcs\sql_experiments\calculus\comulative_struct.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\funcs\sql_experiments\calculus\comulative_sum_partition.py 
+************* Module comulative_sum_partition
+funcs\sql_experiments\calculus\comulative_sum_partition.py:13:0: C0303: Trailing whitespace (trailing-whitespace)
+funcs\sql_experiments\calculus\comulative_sum_partition.py:17:28: C0303: Trailing whitespace (trailing-whitespace)
+funcs\sql_experiments\calculus\comulative_sum_partition.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\sql_experiments\calculus\comulative_sum_partition.py:2:0: W0401: Wildcard import comulative_struct (wildcard-import)
+funcs\sql_experiments\calculus\comulative_sum_partition.py:5:31: C0103: Argument name "df" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\calculus\comulative_sum_partition.py:5:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\sql_experiments\calculus\comulative_sum_partition.py:11:4: C0103: Variable name "a" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\calculus\comulative_sum_partition.py:11:8: R1718: Consider using a set comprehension (consider-using-set-comprehension)
+funcs\sql_experiments\calculus\comulative_sum_partition.py:11:13: R1721: Unnecessary use of a comprehension, use list(zip(df[col1], df[col2])) instead. (unnecessary-comprehension)
+funcs\sql_experiments\calculus\comulative_sum_partition.py:14:4: C0103: Variable name "c" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\calculus\comulative_sum_partition.py:16:8: C0103: Variable name "j0" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\calculus\comulative_sum_partition.py:16:11: C0103: Variable name "j1" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\calculus\comulative_sum_partition.py:21:12: C0103: Variable name "o" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\calculus\comulative_sum_partition.py:3:0: C0411: standard import "from decimal import Decimal as Dec" should be placed before "import pandas as pd" (wrong-import-order)
+
+------------------------------------------------------------------
+Your code has been rated at 1.76/10 (previous run: 1.76/10, +0.00)
+
+ 
+C:\github\SQL\funcs\sql_experiments\calculus\moving_average.py 
+************* Module moving_average
+funcs\sql_experiments\calculus\moving_average.py:4:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\calculus\moving_average.py:5:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\calculus\moving_average.py:7:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\calculus\moving_average.py:9:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\calculus\moving_average.py:10:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+funcs\sql_experiments\calculus\moving_average.py:11:0: W0311: Bad indentation. Found 6 spaces, expected 12 (bad-indentation)
+funcs\sql_experiments\calculus\moving_average.py:12:0: W0311: Bad indentation. Found 6 spaces, expected 12 (bad-indentation)
+funcs\sql_experiments\calculus\moving_average.py:14:0: W0311: Bad indentation. Found 6 spaces, expected 12 (bad-indentation)
+funcs\sql_experiments\calculus\moving_average.py:15:0: W0311: Bad indentation. Found 6 spaces, expected 12 (bad-indentation)
+funcs\sql_experiments\calculus\moving_average.py:16:0: W0311: Bad indentation. Found 6 spaces, expected 12 (bad-indentation)
+funcs\sql_experiments\calculus\moving_average.py:17:0: W0311: Bad indentation. Found 6 spaces, expected 12 (bad-indentation)
+funcs\sql_experiments\calculus\moving_average.py:20:0: W0311: Bad indentation. Found 6 spaces, expected 12 (bad-indentation)
+funcs\sql_experiments\calculus\moving_average.py:21:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+funcs\sql_experiments\calculus\moving_average.py:22:0: W0311: Bad indentation. Found 6 spaces, expected 12 (bad-indentation)
+funcs\sql_experiments\calculus\moving_average.py:24:0: W0311: Bad indentation. Found 6 spaces, expected 12 (bad-indentation)
+funcs\sql_experiments\calculus\moving_average.py:25:0: W0311: Bad indentation. Found 6 spaces, expected 12 (bad-indentation)
+funcs\sql_experiments\calculus\moving_average.py:26:0: W0311: Bad indentation. Found 6 spaces, expected 12 (bad-indentation)
+funcs\sql_experiments\calculus\moving_average.py:28:0: W0311: Bad indentation. Found 6 spaces, expected 12 (bad-indentation)
+funcs\sql_experiments\calculus\moving_average.py:29:0: W0311: Bad indentation. Found 6 spaces, expected 12 (bad-indentation)
+funcs\sql_experiments\calculus\moving_average.py:30:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+funcs\sql_experiments\calculus\moving_average.py:32:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\calculus\moving_average.py:37:0: C0304: Final newline missing (missing-final-newline)
+funcs\sql_experiments\calculus\moving_average.py:18:9: W0511: TODO add slicer from other module for nested struct (fixme)
+funcs\sql_experiments\calculus\moving_average.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\sql_experiments\calculus\moving_average.py:3:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\sql_experiments\calculus\moving_average.py:3:23: W0621: Redefining name 'step' from outer scope (line 34) (redefined-outer-name)
+funcs\sql_experiments\calculus\moving_average.py:4:2: W0621: Redefining name 'l' from outer scope (line 35) (redefined-outer-name)
+funcs\sql_experiments\calculus\moving_average.py:4:2: C0103: Variable name "l" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\calculus\moving_average.py:7:2: C0103: Variable name "c" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\calculus\moving_average.py:14:6: C0103: Variable name "s" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\calculus\moving_average.py:16:6: C0103: Variable name "a" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\calculus\moving_average.py:24:6: C0103: Variable name "s" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\calculus\moving_average.py:26:6: C0103: Variable name "a" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\calculus\moving_average.py:30:4: C0103: Variable name "c" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\calculus\moving_average.py:4:2: W0612: Unused variable 'l' (unused-variable)
+funcs\sql_experiments\calculus\moving_average.py:34:0: C0103: Constant name "step" doesn't conform to UPPER_CASE naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\funcs\sql_experiments\calculus\triangle_each_row_comulative\comulative_sum.py 
+************* Module comulative_sum
+funcs\sql_experiments\calculus\triangle_each_row_comulative\comulative_sum.py:4:0: C0301: Line too long (103/100) (line-too-long)
+funcs\sql_experiments\calculus\triangle_each_row_comulative\comulative_sum.py:5:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\calculus\triangle_each_row_comulative\comulative_sum.py:6:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\calculus\triangle_each_row_comulative\comulative_sum.py:7:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\calculus\triangle_each_row_comulative\comulative_sum.py:8:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+funcs\sql_experiments\calculus\triangle_each_row_comulative\comulative_sum.py:9:0: W0311: Bad indentation. Found 6 spaces, expected 12 (bad-indentation)
+funcs\sql_experiments\calculus\triangle_each_row_comulative\comulative_sum.py:10:0: W0311: Bad indentation. Found 6 spaces, expected 12 (bad-indentation)
+funcs\sql_experiments\calculus\triangle_each_row_comulative\comulative_sum.py:11:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+funcs\sql_experiments\calculus\triangle_each_row_comulative\comulative_sum.py:12:0: W0311: Bad indentation. Found 6 spaces, expected 12 (bad-indentation)
+funcs\sql_experiments\calculus\triangle_each_row_comulative\comulative_sum.py:13:0: C0304: Final newline missing (missing-final-newline)
+funcs\sql_experiments\calculus\triangle_each_row_comulative\comulative_sum.py:13:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\calculus\triangle_each_row_comulative\comulative_sum.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\sql_experiments\calculus\triangle_each_row_comulative\comulative_sum.py:3:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\sql_experiments\calculus\triangle_each_row_comulative\comulative_sum.py:5:2: C0103: Variable name "s" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\calculus\triangle_each_row_comulative\comulative_sum.py:6:2: C0103: Variable name "d" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_experiments\calculus\triangle_each_row_comulative\comulative_sum.py:9:6: C0103: Variable name "d" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\funcs\sql_experiments\calculus\triangle_each_row_comulative\triangle_each_row_comulative.py 
+************* Module triangle_each_row_comulative
+funcs\sql_experiments\calculus\triangle_each_row_comulative\triangle_each_row_comulative.py:9:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\calculus\triangle_each_row_comulative\triangle_each_row_comulative.py:10:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\calculus\triangle_each_row_comulative\triangle_each_row_comulative.py:11:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+funcs\sql_experiments\calculus\triangle_each_row_comulative\triangle_each_row_comulative.py:12:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+funcs\sql_experiments\calculus\triangle_each_row_comulative\triangle_each_row_comulative.py:13:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_experiments\calculus\triangle_each_row_comulative\triangle_each_row_comulative.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\sql_experiments\calculus\triangle_each_row_comulative\triangle_each_row_comulative.py:1:0: W0401: Wildcard import comulative_sum (wildcard-import)
+funcs\sql_experiments\calculus\triangle_each_row_comulative\triangle_each_row_comulative.py:6:0: E0401: Unable to import 'triangle_test1' (import-error)
+funcs\sql_experiments\calculus\triangle_each_row_comulative\triangle_each_row_comulative.py:6:0: W0401: Wildcard import triangle_test1 (wildcard-import)
+funcs\sql_experiments\calculus\triangle_each_row_comulative\triangle_each_row_comulative.py:6:0: C0413: Import "from triangle_test1 import *" should be placed at the top of the module (wrong-import-position)
+funcs\sql_experiments\calculus\triangle_each_row_comulative\triangle_each_row_comulative.py:8:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\sql_experiments\calculus\triangle_each_row_comulative\triangle_each_row_comulative.py:9:2: W0621: Redefining name 'res' from outer scope (line 15) (redefined-outer-name)
+funcs\sql_experiments\calculus\triangle_each_row_comulative\triangle_each_row_comulative.py:15:35: E0602: Undefined variable 'arr' (undefined-variable)
+funcs\sql_experiments\calculus\triangle_each_row_comulative\triangle_each_row_comulative.py:1:0: W0614: Unused import(s) D from wildcard import of comulative_sum (unused-wildcard-import)
+funcs\sql_experiments\calculus\triangle_each_row_comulative\triangle_each_row_comulative.py:2:0: C0411: standard import "import sys" should be placed before "from comulative_sum import *" (wrong-import-order)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\funcs\sql_experiments\calculus\triangle_each_row_comulative\test_data\triangle_test1.py 
+************* Module triangle_test1
+funcs\sql_experiments\calculus\triangle_each_row_comulative\test_data\triangle_test1.py:14:0: C0304: Final newline missing (missing-final-newline)
+funcs\sql_experiments\calculus\triangle_each_row_comulative\test_data\triangle_test1.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\funcs\sql_parse\define_subquery_in_other_subquery.py 
+************* Module define_subquery_in_other_subquery
+funcs\sql_parse\define_subquery_in_other_subquery.py:7:0: E0001: unexpected unindent (<unknown>, line 7) (syntax-error)
+ 
+C:\github\SQL\funcs\sql_parse\sqlparse_extract_table_names.py 
+************* Module sqlparse_extract_table_names
+funcs\sql_parse\sqlparse_extract_table_names.py:18:0: W0311: Bad indentation. Found 7 spaces, expected 8 (bad-indentation)
+funcs\sql_parse\sqlparse_extract_table_names.py:19:0: W0311: Bad indentation. Found 10 spaces, expected 12 (bad-indentation)
+funcs\sql_parse\sqlparse_extract_table_names.py:20:0: W0311: Bad indentation. Found 7 spaces, expected 8 (bad-indentation)
+funcs\sql_parse\sqlparse_extract_table_names.py:21:0: W0311: Bad indentation. Found 10 spaces, expected 12 (bad-indentation)
+funcs\sql_parse\sqlparse_extract_table_names.py:22:0: C0301: Line too long (127/100) (line-too-long)
+funcs\sql_parse\sqlparse_extract_table_names.py:22:0: W0311: Bad indentation. Found 10 spaces, expected 12 (bad-indentation)
+funcs\sql_parse\sqlparse_extract_table_names.py:23:0: W0311: Bad indentation. Found 13 spaces, expected 16 (bad-indentation)
+funcs\sql_parse\sqlparse_extract_table_names.py:24:0: W0311: Bad indentation. Found 13 spaces, expected 16 (bad-indentation)
+funcs\sql_parse\sqlparse_extract_table_names.py:25:0: W0311: Bad indentation. Found 15 spaces, expected 20 (bad-indentation)
+funcs\sql_parse\sqlparse_extract_table_names.py:26:0: W0311: Bad indentation. Found 15 spaces, expected 20 (bad-indentation)
+funcs\sql_parse\sqlparse_extract_table_names.py:27:0: W0311: Bad indentation. Found 7 spaces, expected 8 (bad-indentation)
+funcs\sql_parse\sqlparse_extract_table_names.py:30:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_parse\sqlparse_extract_table_names.py:31:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_parse\sqlparse_extract_table_names.py:32:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_parse\sqlparse_extract_table_names.py:35:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+funcs\sql_parse\sqlparse_extract_table_names.py:24:37: W1401: Anomalous backslash in string: '\w'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+funcs\sql_parse\sqlparse_extract_table_names.py:24:40: W1401: Anomalous backslash in string: '\.'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+funcs\sql_parse\sqlparse_extract_table_names.py:24:42: W1401: Anomalous backslash in string: '\w'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+funcs\sql_parse\sqlparse_extract_table_names.py:24:46: W1401: Anomalous backslash in string: '\w'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+funcs\sql_parse\sqlparse_extract_table_names.py:24:50: W1401: Anomalous backslash in string: '\s'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+funcs\sql_parse\sqlparse_extract_table_names.py:24:53: W1401: Anomalous backslash in string: '\w'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+funcs\sql_parse\sqlparse_extract_table_names.py:24:60: W1401: Anomalous backslash in string: '\w'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+funcs\sql_parse\sqlparse_extract_table_names.py:24:63: W1401: Anomalous backslash in string: '\.'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+funcs\sql_parse\sqlparse_extract_table_names.py:24:65: W1401: Anomalous backslash in string: '\w'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+funcs\sql_parse\sqlparse_extract_table_names.py:24:69: W1401: Anomalous backslash in string: '\w'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+funcs\sql_parse\sqlparse_extract_table_names.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\sql_parse\sqlparse_extract_table_names.py:1:0: C0410: Multiple imports on one line (sqlparse, re) (multiple-imports)
+funcs\sql_parse\sqlparse_extract_table_names.py:15:33: C0103: Argument name "d" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_parse\sqlparse_extract_table_names.py:15:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\sql_parse\sqlparse_extract_table_names.py:16:4: W0621: Redefining name 'f' from outer scope (line 34) (redefined-outer-name)
+funcs\sql_parse\sqlparse_extract_table_names.py:16:4: C0103: Variable name "f" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_parse\sqlparse_extract_table_names.py:19:10: C0103: Variable name "f" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_parse\sqlparse_extract_table_names.py:21:10: C0103: Variable name "f" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_parse\sqlparse_extract_table_names.py:23:13: C0103: Variable name "fr" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_parse\sqlparse_extract_table_names.py:24:17: C0103: Variable name "t" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_parse\sqlparse_extract_table_names.py:25:15: C0103: Variable name "t1" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_parse\sqlparse_extract_table_names.py:27:18: E0602: Undefined variable 'get_tables' (undefined-variable)
+funcs\sql_parse\sqlparse_extract_table_names.py:29:19: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_parse\sqlparse_extract_table_names.py:29:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\sql_parse\sqlparse_extract_table_names.py:29:19: W0621: Redefining name 's' from outer scope (line 35) (redefined-outer-name)
+funcs\sql_parse\sqlparse_extract_table_names.py:31:9: R1721: Unnecessary use of a comprehension, use list(result1) instead. (unnecessary-comprehension)
+funcs\sql_parse\sqlparse_extract_table_names.py:34:5: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+funcs\sql_parse\sqlparse_extract_table_names.py:1:0: C0411: standard import "import sqlparse, re" should be placed before "import sqlparse, re" (wrong-import-order)
+funcs\sql_parse\sqlparse_extract_table_names.py:2:0: C0411: standard import "import os" should be placed before "import sqlparse, re" (wrong-import-order)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\funcs\sql_parse\switch_two_subqueries_position - ™Ѓѓ®п.py 
+************* Module Ч
+Ч:1:0: F0001: No module named Ч (fatal)
+************* Module копи€.py
+копи€.py:1:0: F0001: No module named копи€.py (fatal)
+************* Module C:\github\SQL\funcs\sql_parse\switch_two_subqueries_position
+funcs\sql_parse\switch_two_subqueries_position.py:8:0: C0303: Trailing whitespace (trailing-whitespace)
+funcs\sql_parse\switch_two_subqueries_position.py:10:0: C0303: Trailing whitespace (trailing-whitespace)
+funcs\sql_parse\switch_two_subqueries_position.py:13:0: C0303: Trailing whitespace (trailing-whitespace)
+funcs\sql_parse\switch_two_subqueries_position.py:16:0: C0303: Trailing whitespace (trailing-whitespace)
+funcs\sql_parse\switch_two_subqueries_position.py:34:18: C0303: Trailing whitespace (trailing-whitespace)
+funcs\sql_parse\switch_two_subqueries_position.py:5:5: W0511: TODO review for variable names (fixme)
+funcs\sql_parse\switch_two_subqueries_position.py:1:0: C0103: Module name "C:\github\SQL\funcs\sql_parse\switch_two_subqueries_position" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_parse\switch_two_subqueries_position.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\sql_parse\switch_two_subqueries_position.py:4:35: C0103: Argument name "q" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_parse\switch_two_subqueries_position.py:4:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\sql_parse\switch_two_subqueries_position.py:9:4: C0103: Variable name "t" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_parse\switch_two_subqueries_position.py:11:4: C0103: Variable name "v" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_parse\switch_two_subqueries_position.py:12:4: C0103: Variable name "m" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_parse\switch_two_subqueries_position.py:18:8: C0103: Variable name "v" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_parse\switch_two_subqueries_position.py:19:8: C0103: Variable name "v" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_parse\switch_two_subqueries_position.py:21:8: C0103: Variable name "m" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_parse\switch_two_subqueries_position.py:22:8: C0103: Variable name "m" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\funcs\sql_parse\switch_two_subqueries_position.py 
+************* Module switch_two_subqueries_position
+funcs\sql_parse\switch_two_subqueries_position.py:8:0: C0303: Trailing whitespace (trailing-whitespace)
+funcs\sql_parse\switch_two_subqueries_position.py:10:0: C0303: Trailing whitespace (trailing-whitespace)
+funcs\sql_parse\switch_two_subqueries_position.py:13:0: C0303: Trailing whitespace (trailing-whitespace)
+funcs\sql_parse\switch_two_subqueries_position.py:16:0: C0303: Trailing whitespace (trailing-whitespace)
+funcs\sql_parse\switch_two_subqueries_position.py:34:18: C0303: Trailing whitespace (trailing-whitespace)
+funcs\sql_parse\switch_two_subqueries_position.py:5:5: W0511: TODO review for variable names (fixme)
+funcs\sql_parse\switch_two_subqueries_position.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\sql_parse\switch_two_subqueries_position.py:4:35: C0103: Argument name "q" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_parse\switch_two_subqueries_position.py:4:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\sql_parse\switch_two_subqueries_position.py:9:4: C0103: Variable name "t" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_parse\switch_two_subqueries_position.py:11:4: C0103: Variable name "v" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_parse\switch_two_subqueries_position.py:12:4: C0103: Variable name "m" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_parse\switch_two_subqueries_position.py:18:8: C0103: Variable name "v" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_parse\switch_two_subqueries_position.py:19:8: C0103: Variable name "v" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_parse\switch_two_subqueries_position.py:21:8: C0103: Variable name "m" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_parse\switch_two_subqueries_position.py:22:8: C0103: Variable name "m" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 2.73/10 (previous run: 2.73/10, +0.00)
+
+ 
+C:\github\SQL\funcs\sql_parse\sql_metadata_tests\simple_tests.py 
+************* Module simple_tests
+funcs\sql_parse\sql_metadata_tests\simple_tests.py:23:0: C0301: Line too long (3485/100) (line-too-long)
+funcs\sql_parse\sql_metadata_tests\simple_tests.py:22:1: W0511: TODO ADD class_attrs(sql_obj).keys() (fixme)
+funcs\sql_parse\sql_metadata_tests\simple_tests.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\sql_parse\sql_metadata_tests\simple_tests.py:4:0: C0103: Constant name "Var1" doesn't conform to UPPER_CASE naming style (invalid-name)
+funcs\sql_parse\sql_metadata_tests\simple_tests.py:6:0: W0106: Expression "Parser(Var1).tables" is assigned to nothing (expression-not-assigned)
+funcs\sql_parse\sql_metadata_tests\simple_tests.py:9:0: C0103: Constant name "Var1" doesn't conform to UPPER_CASE naming style (invalid-name)
+funcs\sql_parse\sql_metadata_tests\simple_tests.py:21:0: W0104: Statement seems to have no effect (pointless-statement)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\funcs\sql_templates\sl3_two_dates_diff.py 
+************* Module sl3_two_dates_diff
+funcs\sql_templates\sl3_two_dates_diff.py:3:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_templates\sl3_two_dates_diff.py:4:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_templates\sl3_two_dates_diff.py:6:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_templates\sl3_two_dates_diff.py:9:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_templates\sl3_two_dates_diff.py:15:0: C0304: Final newline missing (missing-final-newline)
+funcs\sql_templates\sl3_two_dates_diff.py:15:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_templates\sl3_two_dates_diff.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\sql_templates\sl3_two_dates_diff.py:4:2: W0105: String statement has no effect (pointless-string-statement)
+funcs\sql_templates\sl3_two_dates_diff.py:11:0: E0602: Undefined variable 'sqlite_two_dates_diff' (undefined-variable)
+funcs\sql_templates\sl3_two_dates_diff.py:14:18: C0103: Argument name "orderByField" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_templates\sl3_two_dates_diff.py:14:31: C0103: Argument name "extractPosition" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_templates\sl3_two_dates_diff.py:14:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\funcs\sql_templates\mysql\-contrast_to_except_opposite_criteria_in_one_table.py 
+************* Module -contrast_to_except_opposite_criteria_in_one_table
+funcs\sql_templates\mysql\-contrast_to_except_opposite_criteria_in_one_table.py:1:0: C0301: Line too long (117/100) (line-too-long)
+funcs\sql_templates\mysql\-contrast_to_except_opposite_criteria_in_one_table.py:2:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_templates\mysql\-contrast_to_except_opposite_criteria_in_one_table.py:13:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_templates\mysql\-contrast_to_except_opposite_criteria_in_one_table.py:14:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+funcs\sql_templates\mysql\-contrast_to_except_opposite_criteria_in_one_table.py:15:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+funcs\sql_templates\mysql\-contrast_to_except_opposite_criteria_in_one_table.py:16:52: C0303: Trailing whitespace (trailing-whitespace)
+funcs\sql_templates\mysql\-contrast_to_except_opposite_criteria_in_one_table.py:16:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+funcs\sql_templates\mysql\-contrast_to_except_opposite_criteria_in_one_table.py:17:23: C0303: Trailing whitespace (trailing-whitespace)
+funcs\sql_templates\mysql\-contrast_to_except_opposite_criteria_in_one_table.py:17:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_templates\mysql\-contrast_to_except_opposite_criteria_in_one_table.py:19:0: C0304: Final newline missing (missing-final-newline)
+funcs\sql_templates\mysql\-contrast_to_except_opposite_criteria_in_one_table.py:19:0: C0301: Line too long (109/100) (line-too-long)
+funcs\sql_templates\mysql\-contrast_to_except_opposite_criteria_in_one_table.py:1:0: C0103: Module name "-contrast_to_except_opposite_criteria_in_one_table" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_templates\mysql\-contrast_to_except_opposite_criteria_in_one_table.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\sql_templates\mysql\-contrast_to_except_opposite_criteria_in_one_table.py:1:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\funcs\sql_templates\mysql\-define_same_columns_by_table.py 
+************* Module -define_same_columns_by_table
+funcs\sql_templates\mysql\-define_same_columns_by_table.py:1:0: F0010: error while code parsing: Wrong or no encoding specified for C:\github\SQL\funcs\sql_templates\mysql\-define_same_columns_by_table.py. (parse-error)
+ 
+C:\github\SQL\funcs\sql_templates\mysql\pivot_by_year_month.py 
+************* Module pivot_by_year_month
+funcs\sql_templates\mysql\pivot_by_year_month.py:2:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_templates\mysql\pivot_by_year_month.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\sql_templates\mysql\pivot_by_year_month.py:1:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\funcs\sql_templates\mysql\sbix_gc.py 
+************* Module sbix_gc
+funcs\sql_templates\mysql\sbix_gc.py:2:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_templates\mysql\sbix_gc.py:3:0: C0305: Trailing newlines (trailing-newlines)
+funcs\sql_templates\mysql\sbix_gc.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\sql_templates\mysql\sbix_gc.py:1:18: C0103: Argument name "orderByField" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_templates\mysql\sbix_gc.py:1:31: C0103: Argument name "extractPosition" doesn't conform to snake_case naming style (invalid-name)
+funcs\sql_templates\mysql\sbix_gc.py:1:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\funcs\sql_templates\mysql\show_crete_table.py 
+************* Module show_crete_table
+funcs\sql_templates\mysql\show_crete_table.py:2:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_templates\mysql\show_crete_table.py:3:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+funcs\sql_templates\mysql\show_crete_table.py:4:0: C0304: Final newline missing (missing-final-newline)
+funcs\sql_templates\mysql\show_crete_table.py:4:3: W0511: TODO require connection inside pandas func (fixme)
+funcs\sql_templates\mysql\show_crete_table.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\sql_templates\mysql\show_crete_table.py:1:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\sql_templates\mysql\show_crete_table.py:3:16: E0602: Undefined variable 'pandas_execute_sql' (undefined-variable)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\funcs\web_scrapping\driverGetSoupFindHtmlTable.py 
+************* Module driverGetSoupFindHtmlTable
+funcs\web_scrapping\driverGetSoupFindHtmlTable.py:15:78: C0303: Trailing whitespace (trailing-whitespace)
+funcs\web_scrapping\driverGetSoupFindHtmlTable.py:30:0: C0303: Trailing whitespace (trailing-whitespace)
+funcs\web_scrapping\driverGetSoupFindHtmlTable.py:32:0: C0303: Trailing whitespace (trailing-whitespace)
+funcs\web_scrapping\driverGetSoupFindHtmlTable.py:15:5: W0511: TODO optimize extract before check if table exist on page only neededpart  (fixme)
+funcs\web_scrapping\driverGetSoupFindHtmlTable.py:1:0: C0103: Module name "driverGetSoupFindHtmlTable" doesn't conform to snake_case naming style (invalid-name)
+funcs\web_scrapping\driverGetSoupFindHtmlTable.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\web_scrapping\driverGetSoupFindHtmlTable.py:9:0: E0401: Unable to import 'proj_chromedriver_config' (import-error)
+funcs\web_scrapping\driverGetSoupFindHtmlTable.py:9:0: C0413: Import "from proj_chromedriver_config import BrowserConfig" should be placed at the top of the module (wrong-import-position)
+funcs\web_scrapping\driverGetSoupFindHtmlTable.py:13:0: C0103: Function name "driverGetSoupFindHtmlTable" doesn't conform to snake_case naming style (invalid-name)
+funcs\web_scrapping\driverGetSoupFindHtmlTable.py:13:0: C0116: Missing function or method docstring (missing-function-docstring)
+funcs\web_scrapping\driverGetSoupFindHtmlTable.py:13:31: W0621: Redefining name 'site' from outer scope (line 35) (redefined-outer-name)
+funcs\web_scrapping\driverGetSoupFindHtmlTable.py:20:4: W0621: Redefining name 'rows' from outer scope (line 36) (redefined-outer-name)
+funcs\web_scrapping\driverGetSoupFindHtmlTable.py:28:15: W0703: Catching too general exception Exception (broad-except)
+funcs\web_scrapping\driverGetSoupFindHtmlTable.py:28:8: C0103: Variable name "e" doesn't conform to snake_case naming style (invalid-name)
+funcs\web_scrapping\driverGetSoupFindHtmlTable.py:35:0: C0103: Constant name "site" doesn't conform to UPPER_CASE naming style (invalid-name)
+funcs\web_scrapping\driverGetSoupFindHtmlTable.py:2:0: W0611: Unused webdriver imported from selenium (unused-import)
+funcs\web_scrapping\driverGetSoupFindHtmlTable.py:3:0: W0611: Unused By imported from selenium.webdriver.common.by (unused-import)
+funcs\web_scrapping\driverGetSoupFindHtmlTable.py:4:0: W0611: Unused expected_conditions imported from selenium.webdriver.support as EC (unused-import)
+funcs\web_scrapping\driverGetSoupFindHtmlTable.py:5:0: W0611: Unused Keys imported from selenium.webdriver.common.keys (unused-import)
+funcs\web_scrapping\driverGetSoupFindHtmlTable.py:7:0: C0411: standard import "import sys" should be placed before "from bs4 import BeautifulSoup" (wrong-import-order)
+
+------------------------------------------------------------------
+Your code has been rated at 1.11/10 (previous run: 1.11/10, +0.00)
+
+ 
+C:\github\SQL\funcs\web_scrapping\request_and_scrap_table.py 
+************* Module request_and_scrap_table
+funcs\web_scrapping\request_and_scrap_table.py:5:0: C0301: Line too long (134/100) (line-too-long)
+funcs\web_scrapping\request_and_scrap_table.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+funcs\web_scrapping\request_and_scrap_table.py:4:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 7.00/10 (previous run: 7.00/10, +0.00)
+
+ 
+C:\github\SQL\py_processing\compare_two_files\compare_two_files.py 
+************* Module compare_two_files
+py_processing\compare_two_files\compare_two_files.py:20:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+py_processing\compare_two_files\compare_two_files.py:21:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+py_processing\compare_two_files\compare_two_files.py:27:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+py_processing\compare_two_files\compare_two_files.py:34:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+py_processing\compare_two_files\compare_two_files.py:35:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+py_processing\compare_two_files\compare_two_files.py:38:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+py_processing\compare_two_files\compare_two_files.py:39:0: C0303: Trailing whitespace (trailing-whitespace)
+py_processing\compare_two_files\compare_two_files.py:41:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+py_processing\compare_two_files\compare_two_files.py:42:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+py_processing\compare_two_files\compare_two_files.py:43:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+py_processing\compare_two_files\compare_two_files.py:44:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+py_processing\compare_two_files\compare_two_files.py:45:0: C0303: Trailing whitespace (trailing-whitespace)
+py_processing\compare_two_files\compare_two_files.py:47:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+py_processing\compare_two_files\compare_two_files.py:48:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+py_processing\compare_two_files\compare_two_files.py:49:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+py_processing\compare_two_files\compare_two_files.py:50:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+py_processing\compare_two_files\compare_two_files.py:53:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+py_processing\compare_two_files\compare_two_files.py:56:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+py_processing\compare_two_files\compare_two_files.py:57:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+py_processing\compare_two_files\compare_two_files.py:59:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+py_processing\compare_two_files\compare_two_files.py:25:1: W0511: TODO log res (fixme)
+py_processing\compare_two_files\compare_two_files.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+py_processing\compare_two_files\compare_two_files.py:5:9: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+py_processing\compare_two_files\compare_two_files.py:5:14: E0602: Undefined variable 'original' (undefined-variable)
+py_processing\compare_two_files\compare_two_files.py:6:9: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+py_processing\compare_two_files\compare_two_files.py:6:14: E0602: Undefined variable 'to_compare' (undefined-variable)
+py_processing\compare_two_files\compare_two_files.py:9:34: E0602: Undefined variable 'original' (undefined-variable)
+py_processing\compare_two_files\compare_two_files.py:9:52: E0602: Undefined variable 'to_compare' (undefined-variable)
+py_processing\compare_two_files\compare_two_files.py:15:0: C0103: Constant name "line_no" doesn't conform to UPPER_CASE naming style (invalid-name)
+py_processing\compare_two_files\compare_two_files.py:19:5: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+py_processing\compare_two_files\compare_two_files.py:19:10: E0602: Undefined variable 'original' (undefined-variable)
+py_processing\compare_two_files\compare_two_files.py:20:6: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+py_processing\compare_two_files\compare_two_files.py:20:11: E0602: Undefined variable 'to_compare' (undefined-variable)
+py_processing\compare_two_files\compare_two_files.py:42:14: C0209: Formatting a regular string which could be a f-string (consider-using-f-string)
+py_processing\compare_two_files\compare_two_files.py:44:15: C0209: Formatting a regular string which could be a f-string (consider-using-f-string)
+py_processing\compare_two_files\compare_two_files.py:48:14: C0209: Formatting a regular string which could be a f-string (consider-using-f-string)
+py_processing\compare_two_files\compare_two_files.py:50:15: C0209: Formatting a regular string which could be a f-string (consider-using-f-string)
+py_processing\compare_two_files\compare_two_files.py:5:9: R1732: Consider using 'with' for resource-allocating operations (consider-using-with)
+py_processing\compare_two_files\compare_two_files.py:6:9: R1732: Consider using 'with' for resource-allocating operations (consider-using-with)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py 
+************* Module youtube_transcript_beautify
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:5:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:6:0: C0303: Trailing whitespace (trailing-whitespace)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:7:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:9:0: W0311: Bad indentation. Found 3 spaces, expected 8 (bad-indentation)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:10:0: W0311: Bad indentation. Found 3 spaces, expected 8 (bad-indentation)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:11:0: W0311: Bad indentation. Found 5 spaces, expected 12 (bad-indentation)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:13:0: W0311: Bad indentation. Found 5 spaces, expected 12 (bad-indentation)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:14:0: W0311: Bad indentation. Found 5 spaces, expected 12 (bad-indentation)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:15:0: W0311: Bad indentation. Found 7 spaces, expected 16 (bad-indentation)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:16:0: W0311: Bad indentation. Found 3 spaces, expected 8 (bad-indentation)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:18:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:19:19: C0303: Trailing whitespace (trailing-whitespace)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:20:0: W0311: Bad indentation. Found 3 spaces, expected 8 (bad-indentation)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:21:0: W0311: Bad indentation. Found 3 spaces, expected 8 (bad-indentation)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:22:0: W0311: Bad indentation. Found 3 spaces, expected 8 (bad-indentation)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:23:0: W0311: Bad indentation. Found 5 spaces, expected 12 (bad-indentation)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:24:0: W0311: Bad indentation. Found 5 spaces, expected 12 (bad-indentation)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:25:0: C0301: Line too long (134/100) (line-too-long)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:25:0: W0311: Bad indentation. Found 5 spaces, expected 12 (bad-indentation)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:26:0: W0311: Bad indentation. Found 5 spaces, expected 12 (bad-indentation)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:27:0: W0311: Bad indentation. Found 5 spaces, expected 12 (bad-indentation)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:28:0: W0311: Bad indentation. Found 3 spaces, expected 8 (bad-indentation)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:31:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:32:0: C0303: Trailing whitespace (trailing-whitespace)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:33:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:34:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:35:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:36:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:37:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:38:0: C0303: Trailing whitespace (trailing-whitespace)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:39:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:40:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:41:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:42:0: C0303: Trailing whitespace (trailing-whitespace)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:43:0: C0303: Trailing whitespace (trailing-whitespace)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:44:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:45:0: C0303: Trailing whitespace (trailing-whitespace)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:46:0: C0303: Trailing whitespace (trailing-whitespace)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:47:0: C0303: Trailing whitespace (trailing-whitespace)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:4:0: C0116: Missing function or method docstring (missing-function-docstring)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:10:3: C0200: Consider using enumerate instead of iterating with range and len (consider-using-enumerate)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:40:7: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+py_processing\youtube_transcript_beautify\youtube_transcript_beautify.py:40:42: C0103: Variable name "f" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\tutorials\py\beegeek\ifelse_quater_custom_generator.py 
+************* Module ifelse_quater_custom_generator
+tutorials\py\beegeek\ifelse_quater_custom_generator.py:24:0: C0303: Trailing whitespace (trailing-whitespace)
+tutorials\py\beegeek\ifelse_quater_custom_generator.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+tutorials\py\beegeek\ifelse_quater_custom_generator.py:8:3: E0602: Undefined variable 'x' (undefined-variable)
+tutorials\py\beegeek\ifelse_quater_custom_generator.py:8:11: E0602: Undefined variable 'y' (undefined-variable)
+tutorials\py\beegeek\ifelse_quater_custom_generator.py:10:5: R1716: Simplify chained comparison between the operands (chained-comparison)
+tutorials\py\beegeek\ifelse_quater_custom_generator.py:10:5: E0602: Undefined variable 'x' (undefined-variable)
+tutorials\py\beegeek\ifelse_quater_custom_generator.py:10:13: E0602: Undefined variable 'y' (undefined-variable)
+tutorials\py\beegeek\ifelse_quater_custom_generator.py:12:5: R1716: Simplify chained comparison between the operands (chained-comparison)
+tutorials\py\beegeek\ifelse_quater_custom_generator.py:12:5: E0602: Undefined variable 'x' (undefined-variable)
+tutorials\py\beegeek\ifelse_quater_custom_generator.py:12:13: E0602: Undefined variable 'y' (undefined-variable)
+tutorials\py\beegeek\ifelse_quater_custom_generator.py:14:5: E0602: Undefined variable 'x' (undefined-variable)
+tutorials\py\beegeek\ifelse_quater_custom_generator.py:14:13: E0602: Undefined variable 'y' (undefined-variable)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\tutorials\py\beegeek\print_if_statements.py 
+************* Module print_if_statements
+tutorials\py\beegeek\print_if_statements.py:39:0: C0305: Trailing newlines (trailing-newlines)
+tutorials\py\beegeek\print_if_statements.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+tutorials\py\beegeek\print_if_statements.py:1:18: C0103: Argument name "x" doesn't conform to snake_case naming style (invalid-name)
+tutorials\py\beegeek\print_if_statements.py:1:20: C0103: Argument name "y" doesn't conform to snake_case naming style (invalid-name)
+tutorials\py\beegeek\print_if_statements.py:18:4: C0103: Variable name "a" doesn't conform to snake_case naming style (invalid-name)
+tutorials\py\beegeek\print_if_statements.py:20:4: C0103: Variable name "m" doesn't conform to snake_case naming style (invalid-name)
+tutorials\py\beegeek\print_if_statements.py:21:8: C0103: Variable name "b" doesn't conform to snake_case naming style (invalid-name)
+tutorials\py\beegeek\print_if_statements.py:22:12: C0103: Variable name "c" doesn't conform to snake_case naming style (invalid-name)
+tutorials\py\beegeek\print_if_statements.py:24:12: C0103: Variable name "d" doesn't conform to snake_case naming style (invalid-name)
+tutorials\py\beegeek\print_if_statements.py:25:12: C0103: Variable name "l" doesn't conform to snake_case naming style (invalid-name)
+tutorials\py\beegeek\print_if_statements.py:25:14: W0123: Use of eval (eval-used)
+tutorials\py\beegeek\print_if_statements.py:27:16: C0103: Variable name "m" doesn't conform to snake_case naming style (invalid-name)
+tutorials\py\beegeek\print_if_statements.py:30:4: C0103: Variable name "f" doesn't conform to snake_case naming style (invalid-name)
+tutorials\py\beegeek\print_if_statements.py:31:4: C0103: Variable name "g" doesn't conform to snake_case naming style (invalid-name)
+tutorials\py\beegeek\print_if_statements.py:32:4: C0103: Variable name "h" doesn't conform to snake_case naming style (invalid-name)
+tutorials\py\beegeek\print_if_statements.py:34:4: C0103: Variable name "o" doesn't conform to snake_case naming style (invalid-name)
+tutorials\py\beegeek\print_if_statements.py:35:4: C0103: Variable name "n" doesn't conform to snake_case naming style (invalid-name)
+tutorials\py\beegeek\print_if_statements.py:1:18: W0613: Unused argument 'x' (unused-argument)
+tutorials\py\beegeek\print_if_statements.py:1:20: W0613: Unused argument 'y' (unused-argument)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+ 
+C:\github\SQL\tutorials\py\beegeek\quater_of_rectangle.py 
+************* Module quater_of_rectangle
+tutorials\py\beegeek\quater_of_rectangle.py:18:0: C0303: Trailing whitespace (trailing-whitespace)
+tutorials\py\beegeek\quater_of_rectangle.py:40:0: C0301: Line too long (101/100) (line-too-long)
+tutorials\py\beegeek\quater_of_rectangle.py:49:0: C0305: Trailing newlines (trailing-newlines)
+tutorials\py\beegeek\quater_of_rectangle.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+tutorials\py\beegeek\quater_of_rectangle.py:3:0: C0103: Constant name "x" doesn't conform to UPPER_CASE naming style (invalid-name)
+tutorials\py\beegeek\quater_of_rectangle.py:4:0: C0103: Constant name "y" doesn't conform to UPPER_CASE naming style (invalid-name)
+tutorials\py\beegeek\quater_of_rectangle.py:7:0: C0103: Constant name "m" doesn't conform to UPPER_CASE naming style (invalid-name)
+tutorials\py\beegeek\quater_of_rectangle.py:12:10: W0123: Use of eval (eval-used)
+tutorials\py\beegeek\quater_of_rectangle.py:15:18: W0123: Use of eval (eval-used)
+tutorials\py\beegeek\quater_of_rectangle.py:16:12: C0103: Constant name "m" doesn't conform to UPPER_CASE naming style (invalid-name)
+tutorials\py\beegeek\quater_of_rectangle.py:19:5: R1721: Unnecessary use of a comprehension, use list(range(1, 5)) instead. (unnecessary-comprehension)
+
+------------------------------------------------------------------
+Your code has been rated at 4.76/10 (previous run: 4.76/10, +0.00)
+
+ 
+C:\github\SQL\tutorials\py\geekforgeeks\buildMinNumberWhenKReplaced.py 
+************* Module buildMinNumberWhenKReplaced
+tutorials\py\geekforgeeks\buildMinNumberWhenKReplaced.py:38:2: C0303: Trailing whitespace (trailing-whitespace)
+tutorials\py\geekforgeeks\buildMinNumberWhenKReplaced.py:1:0: C0103: Module name "buildMinNumberWhenKReplaced" doesn't conform to snake_case naming style (invalid-name)
+tutorials\py\geekforgeeks\buildMinNumberWhenKReplaced.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+tutorials\py\geekforgeeks\buildMinNumberWhenKReplaced.py:3:0: C0103: Constant name "a" doesn't conform to UPPER_CASE naming style (invalid-name)
+tutorials\py\geekforgeeks\buildMinNumberWhenKReplaced.py:5:0: C0103: Constant name "c" doesn't conform to UPPER_CASE naming style (invalid-name)
+tutorials\py\geekforgeeks\buildMinNumberWhenKReplaced.py:6:0: C0103: Constant name "f" doesn't conform to UPPER_CASE naming style (invalid-name)
+tutorials\py\geekforgeeks\buildMinNumberWhenKReplaced.py:8:0: C0103: Constant name "e" doesn't conform to UPPER_CASE naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 2.22/10 (previous run: 2.22/10, +0.00)
+
+ 
+C:\github\SQL\tutorials\sql\Interactive Trainer\Chapter II\analytical_libraries.py 
+************* Module C:\github\SQL\tutorials\sql\Interactive
+tutorials\sql\Interactive:1:0: F0001: No module named tutorials\sql\Interactive (fatal)
+************* Module Trainer\Chapter
+Trainer\Chapter:1:0: F0001: No module named Trainer\Chapter (fatal)
+************* Module II\analytical_libraries.py
+II\analytical_libraries.py:1:0: F0001: No module named II\analytical_libraries.py (fatal)
+ 
+C:\github\SQL\tutorials\sql\Stratascratch\City With Most Amenities.py 
+************* Module C:\github\SQL\tutorials\sql\Stratascratch\City
+tutorials\sql\Stratascratch\City:1:0: F0001: No module named tutorials\sql\Stratascratch\City (fatal)
+************* Module With
+With:1:0: F0001: No module named With (fatal)
+************* Module Most
+Most:1:0: F0001: No module named Most (fatal)
+************* Module Amenities.py
+Amenities.py:1:0: F0001: No module named Amenities.py (fatal)
+ 

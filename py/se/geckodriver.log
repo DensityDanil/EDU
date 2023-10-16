@@ -1,0 +1,32 @@
+1696098385898	geckodriver	INFO	Listening on 127.0.0.1:62510
+1696098386301	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DANILA~1\\AppData\\Local\\Temp\\rust_mozprofilenVY0G6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696098387653	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696098387793	Marionette	INFO	Listening on port 62517
+Read port: 62517
+1696098388373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F&ec=GAZAmgQ&hl=en&ifkv=AYZoVhf5IS75Dxix8T5n-DbapDTC4UkO45AFeo4A_Z6dodlYOFpy-mziz0NFty3QVoV5CJijJrZE&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1224762206%3A1696098396189866&theme=glif line 193 > injectedScript line 2 > eval line 4040 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F&ec=GAZAmgQ&hl=en&ifkv=AYZoVhf5IS75Dxix8T5n-DbapDTC4UkO45AFeo4A_Z6dodlYOFpy-mziz0NFty3QVoV5CJijJrZE&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1224762206%3A1696098396189866&theme=glif line 193 > injectedScript line 2 > eval line 1598 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1696098590900	Marionette	INFO	Stopped listening on port 62517
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1696099048901	geckodriver	INFO	Listening on 127.0.0.1:64085
+1696099049347	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DANILA~1\\AppData\\Local\\Temp\\rust_mozprofileUkK0Hs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696099050726	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696099050867	Marionette	INFO	Listening on port 64092
+Read port: 64092
+1696099051286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F&ec=GAZAmgQ&hl=en&ifkv=AYZoVhdSj2xIDA0YpYnfnlsEBbGSOvTX3PtHaZdXBdW3P9Su4kLl1K3Ct8QEa-H2mZ6Zzt1mZO1-jg&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S2081062697%3A1696099061448619&theme=glif line 193 > injectedScript line 2 > eval line 431 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1696099086506	Marionette	INFO	Stopped listening on port 64092
