@@ -1,0 +1,14 @@
+City of San Francisco/Easy
+LinkedIn/Easy
+Deloitte/Medium
+Netflix/Medium
+Google/Medium
+City of San Francisco/Medium
+Meta/Facebook/Medium
+Tesla/Medium
+Wine Magazine/Medium
+Yelp/Medium
+LinkedIn/Medium
+Amazon/Hard
+Airbnb/Hard
+Google/Hard
