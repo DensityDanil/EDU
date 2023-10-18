@@ -20,30 +20,22 @@
 -- count - (INT) a number of posts in a given month
 -- percent_growth - (TEXT) a month-over-month growth rate expressed in percents
 
-with month_count
-as
-(select 
-   to_char(created_at,'YYYY-MM-01') ym
-  ,count(distinct title) cnt
-from posts 
-group by 
-  1
-)
-
-,percantage_calc
-as
-(select 
-    mc.ym::date as date
-   ,mc.cnt as count
-   ,(round((((cnt::numeric)/(lag(cnt) over(order by ym asc)::numeric))-1.0)*100.0,1)::float)::varchar as percent_growth
-from month_count mc
-)
-
-select 
-    date
-   ,count
-   ,case
-    when percent_growth not like '%.%'then percent_growth || '.0%'
-    else percent_growth || '%'
-    end as percent_growth
-from percantage_calc pc
+
+with month_count
+as
+(select 
+   to_char(created_at,'YYYY-MM-01') ym
+  ,count(distinct title) cnt
+from posts 
+group by 
+  1
+)
+
+select 
+    mc.ym::date as date
+   ,mc.cnt as count
+-- some_fact first numeric matters down below here
+-- reuse example how to build
+   ,(round(((cnt/(lag(cnt) over(order by ym asc)::numeric))-1.0)*100.0,1)::numeric)::varchar||'%' as percent_growth --kpi_future postgresql suntax to work with float values and xkip exp-notation (scientific notation)
+   -- ,(round((((cnt::numeric)/(lag(cnt) over(order by ym asc)::numeric))-1.0)*100.0,1)::float)::varchar||'%' as percent_growth --kpi_future postgresql suntax to work with float values and xkip exp-notation (scientific notation)
+from month_count mc
