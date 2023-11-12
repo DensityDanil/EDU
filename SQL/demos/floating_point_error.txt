@@ -1,0 +1,5 @@
+select sum(a),sum(b)
+from
+(select 0.2 as a,CAST(0.2 as NUMERIC) as b
+union all
+select 0.1,CAST(0.1 as NUMERIC) as b) q
