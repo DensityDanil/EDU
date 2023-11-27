@@ -26,7 +26,7 @@ for i in data_struct:
 
 sns.heatmap(pd.DataFrame(data_converted_struct))
 
-#create all users list
+#create list with all users 
 au = tuple(row.split('\t')[0] for row in data_splitted[1:]) + tuple(row.split('\t')[1] for row in data_splitted[1:]) #to_review is there a way to filter with less steps?
 audc = set(au)
 

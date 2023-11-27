@@ -26,6 +26,7 @@ from facebook_friends)
 ,all_users_count as (select count(*) c from all_users)
 
 select user_id,count(distinct user2)/(select c from all_users_count)*100 AS popularity 
+-- 1/2*3==1.5 -> div then mult
 from friends_pairs
 group by user_id
 order by user_id
