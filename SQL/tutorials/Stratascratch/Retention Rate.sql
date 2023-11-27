@@ -28,7 +28,7 @@ where date_period<>next_period
 group by date_period,next_period
 )
 
-,retention2020_sample as 
+,retention_sample as 
 (select 
          s2.date_period
         ,s2.account_id
@@ -46,7 +46,7 @@ left join sample_with_period account_user_in_next_period
 
 ,retention_calc as 
 (select date_period,account_id,ROUND(count(distinct retained_user)/count(distinct user_id),2) retention_rate
-from retention2020_sample
+from retention_sample
 group by date_period,account_id
 )
 
