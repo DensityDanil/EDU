@@ -15,7 +15,7 @@ from backup_events
    aws_cluster_id
   ,event_datetime
   ,backup_status
-  ,sum(case when prev_status='End' then 1 else 0 end) over(partition by aws_cluster_id order by event_datetime) c
+  ,sum(case when prev_status='End' then 1 else 0 end) over(partition by aws_cluster_id order by event_datetime) cluster_prev_status_end
 from data)
 
 ,res as
@@ -23,11 +23,11 @@ from data)
    min(event_datetime)::text start_time        
   ,max(event_datetime)::text end_time         
   ,aws_cluster_id
-  ,c
+  ,cluster_prev_status_end
   ,max(event_datetime) - min(event_datetime) as total_backup_duration 
   ,sum(case when backup_status='Start' then 1 end)-sum(case when backup_status='End' then 1 end) number_of_restarts
 from sample
-group by aws_cluster_id,c
+group by aws_cluster_id,cluster_prev_status_end
 )
 
 
@@ -36,6 +36,8 @@ from res
 order by start_time ,aws_cluster_id 
 
 -- additional
+-- method to define values of start without end
+
 -- data = '''3	start
 -- 3	start
 -- 3	end
