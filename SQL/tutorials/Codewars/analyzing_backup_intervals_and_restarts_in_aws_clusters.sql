@@ -93,21 +93,21 @@ order by start_time ,aws_cluster_id
 -- 3	start
 -- 3	end'''.split('\n')
 
--- t = [(int(k.split('\t')[0]), k.split('\t')[1]) for k in data]
+-- table_data = [(int(k.split('\table_data')[0]), k.split('\table_data')[1]) for k in data]
 
--- c=0
--- s=0
+-- row_number=0
+-- common_interval=0
 -- struct = []
--- for i in t:
+-- for table_tuple in table_data:
     
---     if i[1]!='end':
---         row = *i,c,s
+--     if table_tuple[1]!='end':
+--         row = *table_tuple,row_number,common_interval
 --         struct.append(row)
---         s+=1
+--         common_interval+=1
 --     else:
---         row = *i,c,s
+--         row = *table_tuple,row_number,common_interval
 --         struct.append(row)
---         c+=1
---         s=0
+--         row_number+=1
+--         common_interval=0
         
 -- print(*struct,sep='\n')
